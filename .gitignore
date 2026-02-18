@@ -1,0 +1,23 @@
+# macOS system files
+.DS_Store              # Desktop Services Store - stores folder view preferences, icon positions, background images
+.AppleDouble           # Resource fork files created when copying Mac files to non-Mac filesystems (e.g., USB drives, Windows shares)
+.LSOverride            # Launch Services override - stores file type associations and default applications
+
+# Thumbnails
+._*                    # AppleDouble resource fork prefix - contains metadata like icons, permissions when files are on non-HFS+ volumes
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100    # File versioning system introduced in macOS Lion - stores document revision history
+.fseventsd                 # File System Events daemon - tracks filesystem changes for Time Machine and Spotlight
+.Spotlight-V100            # Spotlight search index - metadata database for fast file searching
+.TemporaryItems            # Temporary files waiting to be written or deleted, especially during file operations
+.Trashes                   # Per-volume trash folder - stores deleted files before permanent removal
+.VolumeIcon.icns           # Custom volume icon file - displays custom icons for external drives or disk images
+.com.apple.timemachine.donotpresent  # Tells Time Machine not to prompt to use this volume for backups
+
+# Directories potentially created on remote AFP share
+.AppleDB               # Apple Filing Protocol database - used on network shares for file indexing
+.AppleDesktop          # Desktop database for AFP shares - stores file and folder information
+Network Trash Folder   # Network volume trash - trash for AFP network shares
+Temporary Items        # Network temporary files - temporary storage on network volumes
+.apdisk                # Apple Partition Disk - metadata for AFP Time Machine volumes
