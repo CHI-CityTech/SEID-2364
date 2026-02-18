@@ -4,6 +4,7 @@
 **Credits:** 6 ECTS  
 **Recommended Prerequisite:** Legal Aspects of Data Science  
 **Course Type:** Core Data Science Curriculum (Semester 3)  
+**Moodle Site:** https://moodle.modul.ac.at/course/view.php?id=8146  
 
 ---
 
@@ -72,3 +73,4 @@ AI is integrated as both a **tool and a collaborator**. Students are encouraged 
 
 ## 🧠 **Keywords**
 `#Ethics` `#AI` `#DataScience` `#BalancedBlendedSpace` `#CulturalHeritage` `#EUAIAct` `#CollaborativeAI` `#BBSFramework`
+
