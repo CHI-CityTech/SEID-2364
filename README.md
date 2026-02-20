@@ -4,6 +4,7 @@
 **Credits:** 6 ECTS  
 **Recommended Prerequisite:** Legal Aspects of Data Science  
 **Course Type:** Core Data Science Curriculum (Semester 3)  
+**Moodle Site:** https://moodle.modul.ac.at/course/view.php?id=8146  
 
 ---
 
@@ -70,5 +71,14 @@ AI is integrated as both a **tool and a collaborator**. Students are encouraged 
 
 ---
 
+## 🗂️ **Repository Notes**
+- `case-studies/` is the canonical location for current SEID 2364 case-study materials.
+- `curriculum-design/` is the canonical location for current curriculum planning materials.
+- Legacy duplicate folder naming with spaces has been removed to keep one source of truth.
+- Primary course-planning files are in `curriculum-design/`, including `class_schedule.md`, `project_activity_overview.md`, `case_studies_portfolio.md`, `proposed_syllabus.md`, `course_proposal_2025-10-20.md`, and `potential_course_modalities.md`.
+
+---
+
 ## 🧠 **Keywords**
 `#Ethics` `#AI` `#DataScience` `#BalancedBlendedSpace` `#CulturalHeritage` `#EUAIAct` `#CollaborativeAI` `#BBSFramework`
+
