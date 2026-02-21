@@ -364,35 +364,35 @@ BCIN provides the **universal collaboration grammar**—a medium-agnostic formal
 
 **Analogy:** BCIN is to collaboration what musical notation is to performance—it captures structure and relationships independent of instrumentation, venue, or performer identity.
 
-### 10.2 Complementary BBS Notation Layers
+### 10.2 Complementary BBS Notation Layers (Stage 3: BRPS)
 
-To fully describe collaboration across physical, virtual, and conceptual spaces, additional specialized notations are needed:
+To fully describe collaboration across physical, virtual, and conceptual spaces, additional specialized notations are needed—these will be developed and tested as part of Stage Three (Blended Reality Performance System):
 
-**Spatial-Context Notation (planned):**
+**Spatial-Context Notation:**
 - Physical vs. virtual vs. conceptual space distinctions
 - Spatial proximity and boundary-crossing
 - Example: `{physical:surgery-room} H1 ⇌ H2` vs. `{virtual:Discord} H1 ⇌ H2`
 
-**Sensory-Modal Notation (planned):**
+**Sensory-Modal Notation:**
 - Which sensory channels active (visual, auditory, tactile, chemical)
 - Cross-modal translation effects
 - Example: `H1 --[visual+auditory]--> H2 --[tactile]--> H3`
 
-**Vector-Technology Notation (planned):**
+**Vector-Technology Notation:**
 - Mediation platform and infrastructure
 - Signal transformation effects
 - Example: `H1 -[Discord:async,public]-> H2`
 
-**Temporal-Precision Notation (planned):**
+**Temporal-Precision Notation:**
 - Exact timing, rhythm, entrainment
 - Latency and synchronization
 - Example: `H1 ⇌[Δt<50ms] H2` for real-time coordination
 
-**Resource-Flow Notation (planned):**
+**Resource-Flow Notation:**
 - Material, energy, or physical resource exchange
 - Distinguished from information/signal flow
 
-These layers can compose with BCIN: e.g., `{virtual:Discord} [H1⇌A1: ↺?(H1→A1→H1)] !H1 @H1,@Org` combines spatial context with BCIN structural notation.
+**Integration in BRPS:** These layers will compose with BCIN Stage Two notation to create comprehensive collaboration descriptions. Example: `{virtual:Discord} [H1⇌A1: ↺?(H1→A1→H1)] !H1 @H1,@Org` combines spatial context with structural notation.
 
 ### 10.3 Structural-Layer Extensions (within BCIN scope)
 
@@ -416,7 +416,27 @@ Possible extensions that maintain medium/space/modality independence:
 
 **Current status:** Draft v0.1 (February 20-21, 2026)
 
-**Project context:** BCIN represents **Stage Two** of the BBS (Balanced Blended Space) framework development—the formalization of exhaustive syntax for describing intelligent collaboration.
+### 11.1 BBS Project Staging
+
+BCIN represents **Stage Two** of the BBS (Balanced Blended Space) multi-stage framework development:
+
+- **Stage One:** Conceptual Framework Development
+  - Theoretical foundations: Source-Vector-Destination mediation model
+  - BBS glossary and core concepts
+  - Application in initial coursework (SEID 2364, Collaborative AI)
+  
+- **Stage Two:** Formal Syntax Development (BCIN)
+  - Exhaustive notation for describing intelligent collaboration
+  - Medium-agnostic, space-agnostic, modality-independent
+  - Student-testable instrument for workflow reflection and ethical analysis
+  - **Current work:** Specification, validation, and refinement (v0.1 → v1.0)
+
+- **Stage Three:** Blended Reality Performance System (BRPS)
+  - Implementation platform for testing viable collaboration pathways
+  - Instantiation of true Balanced Blended Space across physical, virtual, and conceptual domains
+  - Test bed for Stage Two notation under operational conditions
+  - Integration of spatial, sensory, vector-technology, temporal, and resource notations
+  - **Timeline:** Development begins Summer 2026; pilot deployment Spring 2027
 
 **Curators:** Dr. David B. Smith, GitHub Copilot (development phase); SEID 2364 students (testing and refinement phase); CHI research community (future integration)
 
@@ -428,11 +448,18 @@ Possible extensions that maintain medium/space/modality independence:
 
 **Feedback protocol:** Document edge cases, ambiguities, proposed extensions, and applications in course repository issues. Tag as `BCIN-feedback` for tracking.
 
-**Version roadmap:**
+### 11.2 Version Roadmap
+
+**BCIN notation development:**
 - v0.1: Core notation, agent taxonomy, flow operators, authority/accountability (current)
 - v0.2: Student testing feedback, clarifications, worked examples expansion
 - v1.0: Stable release, integration documentation, companion notation layers sketched
 - v1.x: Complementary notation layers (spatial, sensory, vector, temporal, resource)
+
+**BRPS development milestones:**
+- BRPS v0.1 (Summer 2026): Prototype system architecture, Stage Two BCIN testing framework
+- BRPS v0.5 (Fall 2026): Pilot implementation with Collaborative AI cohort
+- BRPS v1.0 (Spring 2027): Operational system, integrated multi-stage notation support
 
 ---
 
