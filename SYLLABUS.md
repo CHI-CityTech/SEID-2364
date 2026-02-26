@@ -1,6 +1,6 @@
 # SEID 2364 – Societal and Ethical Impacts of Data Science
 
-**Official Syllabus**
+## Official Syllabus
 
 Modul University Vienna – Spring 2026  
 Instructor: Dr. David B. Smith  
@@ -43,7 +43,7 @@ Upon successful completion of this course, students will be able to:
 ### Unit-by-Unit Topics
 
 | **Unit** | **Topic** | **Key Readings** |
-|----------|-----------|------------------|
+| --- | --- | --- |
 | 1 | Introduction: Ethics in Data Science — Course overview, ethical foundations | Introductory materials, platform orientation |
 | 2 | Intelligence, Agency, and Responsibility — Human vs. machine intelligence, moral reasoning | Turing; Stanford Encyclopedia (agency, responsibility) |
 | 3 | Ethical Frameworks and Approaches — Consequentialism, deontology, virtue ethics | Stanford Encyclopedia; Bartneck et al. |
@@ -91,7 +91,7 @@ Student performance is assessed primarily through project-based and reflective w
 ### Assessment Components
 
 | **Component** | **Description** | **Weight** |
-|---|---|---|
+| --- | --- | --- |
 | **Applied Ethical Projects** | Multiple projects analyzing data-driven or computational systems, policies, or socio-technical environments. Identify ethical risks, map agency and responsibility, evaluate impacts, articulate ethically informed positions. Individual or collaborative. | 50% |
 | **Personal Ethical Statement** | Individual statement articulating ethical assumptions, priorities, and decision-making approach in relation to data science and computation. Developed iteratively; must demonstrate critical reflection and engagement with course concepts. | 30% |
 | **Participation & Reflection Logs** | Weekly engagement, discussions, AI reflection journals, and engagement across modalities. | 20% |
@@ -106,7 +106,7 @@ AI and related computational systems are a **central subject of study** in this 
 
 AI systems are examined not only as tools or objects of analysis, but also as **collaborative agents** whose roles, limitations, and ethical implications are critically assessed.
 
-### AI Use Requirements:
+## AI Use Requirements
 
 - All AI interactions must be **documented and attributed**
 - Students must explicitly analyze **ethical implications** of AI involvement
