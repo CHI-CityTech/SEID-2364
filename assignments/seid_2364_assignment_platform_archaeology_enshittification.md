@@ -1,6 +1,8 @@
 # SEID 2364 – Assignment
 ## Platform Archaeology: Ethical Distance, Enshittification, and Social Media
 
+> Note: This is not Assignment 1. Assignment 1 is `assignment_01_moral_machine_ethics_journal.md`.
+
 ---
 
 ### Assignment Overview
@@ -141,6 +143,22 @@ Your work will be evaluated on:
 - Effective use of BBS concepts
 - Clarity of argument and organization
 - Ability to distinguish systemic ethics from individual blame
+
+---
+
+### Full Dataset Package (Optional Under-the-Hood Path)
+
+Students who want to go beyond archive screenshots can analyze the full local dataset package:
+
+- `resources/datasets/doi_10_5061_dryad_d7wm37q6v__v20230921/`
+- Package README: `resources/datasets/doi_10_5061_dryad_d7wm37q6v__v20230921/README.md`
+- Data archive: `resources/datasets/doi_10_5061_dryad_d7wm37q6v__v20230921/data.zip`
+- Results archive: `resources/datasets/doi_10_5061_dryad_d7wm37q6v__v20230921/results.zip`
+
+If you choose this option, include a methods appendix that states:
+- Which scripts/data files you inspected
+- How you interpreted the processing workflow
+- How your findings informed your ethical-distance analysis
 
 ---
 

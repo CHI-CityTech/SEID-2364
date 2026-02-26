@@ -1,5 +1,7 @@
 # SEID 2364 – Assignment: Platform Archaeology
 
+> Note: This is not Assignment 1. Assignment 1 is `assignment_01_moral_machine_ethics_journal.md`.
+
 **Ethical Distance, Enshittification, and Social Media**
 
 ---
@@ -161,6 +163,22 @@ Create a visual diagram showing:
 - **Enshittification concept:** Cory Doctorow's writings and talks
 - **BBS Glossary:** See resources folder in course repository
 - **Platform-specific case studies:** Research in HCI, media studies journals
+
+### Full Dataset Package (Under-the-Hood Analysis)
+
+Students who want to inspect methods, scripts, and full data artifacts can use:
+
+- `resources/datasets/doi_10_5061_dryad_d7wm37q6v__v20230921/`
+- Package README: `resources/datasets/doi_10_5061_dryad_d7wm37q6v__v20230921/README.md`
+- Data archive: `resources/datasets/doi_10_5061_dryad_d7wm37q6v__v20230921/data.zip`
+- Results archive: `resources/datasets/doi_10_5061_dryad_d7wm37q6v__v20230921/results.zip`
+
+Minimum expectation for Assignment 1 remains platform archaeology via historical evidence. 
+If you choose the under-the-hood path, include a short methods appendix describing:
+
+- Which files/scripts you inspected
+- How you interpreted data structure and processing logic
+- Whether your findings support or complicate your ethical-distance analysis
 
 ---
 
