@@ -1,4 +1,5 @@
 # SEID 2364 – Assignment
+
 ## Platform Archaeology: Ethical Distance, Enshittification, and Social Media
 
 > Note: This is not Assignment 1. Assignment 1 is `assignment_01_moral_machine_ethics_journal.md`.
@@ -6,11 +7,13 @@
 ---
 
 ### Assignment Overview
+
 This assignment asks you to investigate **ethical change over time** in a major digital platform by using archived web materials as evidence. Rather than evaluating a platform based on its current state alone, you will conduct a *historical and structural analysis* of how ethical relationships between users, platforms, and economic actors have evolved.
 
 You will treat the platform interface, policy language, and user affordances as **ethical artifacts**—designed mediation systems that encode power, responsibility, and distance. The goal is not to judge intent, but to understand how ethical behavior becomes easier or harder as platforms scale, monetize, and consolidate control.
 
 This investigation directly supports core SEID themes:
+
 - Ethical behavior within socio-technical systems
 - Social media as a mediated ethical environment
 - Monopoly, ownership, and incentive structures
@@ -20,7 +23,9 @@ This investigation directly supports core SEID themes:
 ---
 
 ### Learning Objectives
+
 By completing this assignment, you will be able to:
+
 - Analyze ethical change as a **systemic process**, not an individual failure
 - Use historical interface and policy evidence to support ethical claims
 - Apply BBS concepts (distance, mediation, agency, ownership) to real platforms
@@ -30,7 +35,9 @@ By completing this assignment, you will be able to:
 ---
 
 ### Platform Selection
+
 Choose **one** platform to investigate. Examples include (but are not limited to):
+
 - Facebook
 - Instagram
 - YouTube
@@ -42,6 +49,7 @@ Choose **one** platform to investigate. Examples include (but are not limited to
 - Amazon Marketplace
 
 You should select a platform that:
+
 - Has existed for several years
 - Has undergone visible changes in monetization or governance
 - Meaningfully mediates social interaction, attention, or creative labor
@@ -49,9 +57,11 @@ You should select a platform that:
 ---
 
 ### Source Material: Historical Evidence
+
 You will use archived versions of platform pages accessed via the **Wayback Machine (Internet Archive)**.
 
 Focus on **text-heavy, policy- or control-oriented pages**, such as:
+
 - Privacy Policy
 - Terms of Service
 - Community Standards
@@ -64,6 +74,7 @@ Avoid focusing primarily on the feed or homepage, as these are often poorly arch
 ---
 
 ### Required Time Slices
+
 Select **at least three** historical snapshots of the *same page*:
 
 - **Early phase** – user-growth or mission-driven period
@@ -77,7 +88,9 @@ You may include additional snapshots if they reveal meaningful transitions.
 ### Investigation Tasks
 
 #### 1. Interface & Language Analysis
+
 Document how the page changes over time:
+
 - Shifts in tone or complexity of language
 - Increased legal abstraction or indirection
 - Changes in visibility of user controls
@@ -88,6 +101,7 @@ Identify where responsibility or clarity appears to move *away* from the user.
 ---
 
 #### 2. Ethical Distance Analysis (BBS)
+
 Using BBS concepts, analyze how ethical distance changes across time:
 
 - **Agency**: What meaningful actions can users take at each stage?
@@ -101,7 +115,9 @@ Describe how the mediation pathway evolves from earlier to later versions.
 ---
 
 #### 3. Enshittification Assessment
+
 Evaluate whether the platform follows a recognizable pattern of degradation:
+
 - Does the system shift from user benefit → business partners → platform owners?
 - Are ethical choices increasingly constrained by design?
 - At what point does ethical participation become difficult or unrealistic?
@@ -111,7 +127,9 @@ Support your assessment with *specific evidence* from the archived materials.
 ---
 
 #### 4. Monopoly & Exit Analysis
+
 Address the structural context:
+
 - What makes leaving the platform difficult?
 - What network effects or switching costs exist?
 - Is ethical exit a realistic option for users or creators?
@@ -129,6 +147,7 @@ Submit **one** of the following formats:
 - Visual essay or annotated interface timeline
 
 All submissions must include:
+
 - Clearly labeled time slices
 - At least one BBS mediation description or diagram
 - Direct quotations or screenshots from archived pages
@@ -137,7 +156,9 @@ All submissions must include:
 ---
 
 ### Assessment Criteria
+
 Your work will be evaluated on:
+
 - Quality and relevance of historical evidence
 - Depth of ethical and structural analysis
 - Effective use of BBS concepts
@@ -156,6 +177,7 @@ Students who want to go beyond archive screenshots can analyze the full local da
 - Results archive: `resources/datasets/doi_10_5061_dryad_d7wm37q6v__v20230921/results.zip`
 
 If you choose this option, include a methods appendix that states:
+
 - Which scripts/data files you inspected
 - How you interpreted the processing workflow
 - How your findings informed your ethical-distance analysis
@@ -163,6 +185,7 @@ If you choose this option, include a methods appendix that states:
 ---
 
 ### Important Notes
+
 - This is **not** a platform review or opinion piece.
 - You are analyzing **design and structure**, not personal experience alone.
 - Ethical claims must be supported by observable evidence.
@@ -171,10 +194,11 @@ If you choose this option, include a methods appendix that states:
 ---
 
 ### Guiding Question
+
 > *How do mediation, ownership, and distance reshape ethical behavior as platforms scale?*
 
 This question should guide every stage of your investigation.
 
 ---
 
-*Prepared for SEID 2364 – Societal and Ethical Impacts of Data Science*
+Prepared for SEID 2364 – Societal and Ethical Impacts of Data Science
