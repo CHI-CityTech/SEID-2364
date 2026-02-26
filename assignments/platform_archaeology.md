@@ -2,7 +2,7 @@
 
 > Note: This is not Assignment 1. Assignment 1 is `assignment_01_moral_machine_ethics_journal.md`.
 
-**Ethical Distance, Enshittification, and Social Media**
+## Ethical Distance, Enshittification, and Social Media
 
 ---
 
@@ -13,6 +13,7 @@ This assignment asks you to investigate **ethical change over time** in a major 
 Treat the platform interface, policy language, and user affordances as **ethical artifacts**—designed mediation systems that encode power, responsibility, and distance. The goal is not to judge intent but to understand how ethical behavior becomes easier or harder as platforms scale, monetize, and consolidate control.
 
 This investigation directly supports core SEID themes:
+
 - Ethical behavior within socio-technical systems
 - Social media as a mediated ethical environment
 - Monopoly, ownership, and incentive structures
@@ -48,6 +49,7 @@ Choose **one** platform to investigate. Examples include:
 - Amazon Marketplace
 
 Select a platform that:
+
 - Has existed for several years
 - Has undergone visible changes in monetization or governance
 - Meaningfully mediates social interaction, attention, or creative labor
@@ -159,7 +161,7 @@ Create a visual diagram showing:
 
 ## Resources
 
-- **Internet Archive Wayback Machine:** https://web.archive.org/
+- **Internet Archive Wayback Machine:** [https://web.archive.org/](https://web.archive.org/)
 - **Enshittification concept:** Cory Doctorow's writings and talks
 - **BBS Glossary:** See resources folder in course repository
 - **Platform-specific case studies:** Research in HCI, media studies journals
@@ -173,7 +175,7 @@ Students who want to inspect methods, scripts, and full data artifacts can use:
 - Data archive: `resources/datasets/doi_10_5061_dryad_d7wm37q6v__v20230921/data.zip`
 - Results archive: `resources/datasets/doi_10_5061_dryad_d7wm37q6v__v20230921/results.zip`
 
-Minimum expectation for Assignment 1 remains platform archaeology via historical evidence. 
+Minimum expectation for Assignment 1 remains platform archaeology via historical evidence.
 If you choose the under-the-hood path, include a short methods appendix describing:
 
 - Which files/scripts you inspected
