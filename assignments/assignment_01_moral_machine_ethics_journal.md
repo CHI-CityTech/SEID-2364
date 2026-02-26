@@ -83,6 +83,7 @@ Include written responses to these exact questions:
 After your initial responses, rewrite each question into a clearer, more analytically useful version you want to use going forward this semester.
 
 For each refined question, add 2–4 sentences explaining:
+
 - What changed from your original framing
 - Why the revision is better for ethical analysis
 
@@ -99,6 +100,7 @@ Submit the following:
    - refined ethical framing questions with brief rationale
 
 Recommended filenames:
+
 - `assignments/submissions/<your_name>_assignment_01_moral_machine.md`
 - `assignments/submissions/<your_name>_journal_entry_01.md`
 
