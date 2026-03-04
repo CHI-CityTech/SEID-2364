@@ -28,12 +28,16 @@ By completing this assignment, you will be able to:
 
 ## Required Data and Materials
 
+- Original dataset DOI source:
+   - [https://doi.org/10.5061/dryad.d7wm37q6v](https://doi.org/10.5061/dryad.d7wm37q6v)
 - Dataset package path:
   - `resources/datasets/doi_10_5061_dryad_d7wm37q6v__v20230921/`
 - Start with:
   - `resources/datasets/doi_10_5061_dryad_d7wm37q6v__v20230921/README.md`
   - `resources/datasets/doi_10_5061_dryad_d7wm37q6v__v20230921/data.zip`
   - `resources/datasets/doi_10_5061_dryad_d7wm37q6v__v20230921/results.zip`
+
+If local files are missing, download the dataset package from the DOI source and place the archives in the path above.
 
 You may inspect additional scripts in the same folder to understand methodology and processing choices.
 
@@ -42,6 +46,9 @@ You may inspect additional scripts in the same folder to understand methodology 
 ## Part A — Moral Machine Dataset Analysis
 
 Prepare a short analysis (900–1200 words or equivalent structured report) addressing the following:
+
+Use dataset version `v20230921` (local package naming) for consistency in this course.
+In your Part A report, cite the DOI source and any local files you used (for example: `results.zip` tables, scripts, or README notes).
 
 1. **What the dataset represents**
    - What kind of ethical responses are recorded?

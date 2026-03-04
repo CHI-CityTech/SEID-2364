@@ -160,6 +160,7 @@ This course addresses:
 Reading assignments will change throughout the semester. The readings listed are **tentative and subject to change** as new technologies, policies, and controversies emerge. Some readings will respond to current events; others will be selected in relation to specific projects students choose to investigate.
 
 Core institutional materials provide shared grounding, while additional sources may vary by cohort.
+For Moral Machine dataset activities, treat the DOI source as canonical; if a newer official Dryad release becomes available, use the latest version and document its version date in your methods appendix.
 
 ---
 

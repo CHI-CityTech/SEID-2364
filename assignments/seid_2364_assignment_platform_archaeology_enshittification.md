@@ -171,10 +171,13 @@ Your work will be evaluated on:
 
 Students who want to go beyond archive screenshots can analyze the full local dataset package:
 
+- DOI source: [https://doi.org/10.5061/dryad.d7wm37q6v](https://doi.org/10.5061/dryad.d7wm37q6v)
 - `resources/datasets/doi_10_5061_dryad_d7wm37q6v__v20230921/`
 - Package README: `resources/datasets/doi_10_5061_dryad_d7wm37q6v__v20230921/README.md`
 - Data archive: `resources/datasets/doi_10_5061_dryad_d7wm37q6v__v20230921/data.zip`
 - Results archive: `resources/datasets/doi_10_5061_dryad_d7wm37q6v__v20230921/results.zip`
+
+If local files are missing, download from the DOI source and place the archives in the path above.
 
 If you choose this option, include a methods appendix that states:
 

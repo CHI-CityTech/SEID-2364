@@ -84,6 +84,7 @@ AI is integrated as both a **tool and a collaborator**. Students are encouraged 
 - `case-studies/` contains SEID 2364 case-study materials.
 - `assignments/` contains all course assignments (4 main assignments + variants).
 - `resources/` contains BBS frameworks, Moral Machine dataset, and educational glossaries.
+- For Moral Machine dataset work, use the DOI source as canonical and, if a newer official Dryad release appears, use the latest version and record the version date in your methods appendix.
 - Curriculum design and planning materials are maintained in the [AI-Curriculum repository](https://github.com/CHI-CityTech/AI-Curriculum).
 - All course materials are synced with the official Spring 2026 SYLLABUS.md at repository root.
 

@@ -170,10 +170,13 @@ Create a visual diagram showing:
 
 Students who want to inspect methods, scripts, and full data artifacts can use:
 
+- DOI source: [https://doi.org/10.5061/dryad.d7wm37q6v](https://doi.org/10.5061/dryad.d7wm37q6v)
 - `resources/datasets/doi_10_5061_dryad_d7wm37q6v__v20230921/`
 - Package README: `resources/datasets/doi_10_5061_dryad_d7wm37q6v__v20230921/README.md`
 - Data archive: `resources/datasets/doi_10_5061_dryad_d7wm37q6v__v20230921/data.zip`
 - Results archive: `resources/datasets/doi_10_5061_dryad_d7wm37q6v__v20230921/results.zip`
+
+If local files are missing, download from the DOI source and place the archives in the path above.
 
 Minimum expectation for Assignment 1 remains platform archaeology via historical evidence.
 If you choose the under-the-hood path, include a short methods appendix describing:
