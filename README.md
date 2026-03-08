@@ -8,6 +8,8 @@
 **Course Type:** Core Data Science Curriculum (Semester 3)  
 **Moodle Site:** [https://moodle.modul.ac.at/course/view.php?id=8146](https://moodle.modul.ac.at/course/view.php?id=8146)
 
+**Link to Current Assignment:** [Assignment 2: Intelligence](https://github.com/CHI-CityTech/SEID-2364/blob/main/assignments/Seid2364_Assignment2_Intelligence.pdf)  
+
 ---
 
 ## 🧭 **Overview**
@@ -93,4 +95,5 @@ AI is integrated as both a **tool and a collaborator**. Students are encouraged 
 ## 🧠 **Keywords**
 
 `#Ethics` `#AI` `#DataScience` `#BalancedBlendedSpace` `#CulturalHeritage` `#EUAIAct` `#CollaborativeAI` `#BBSFramework`
+
 
