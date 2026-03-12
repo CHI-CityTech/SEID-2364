@@ -1,9 +1,9 @@
 # **The Arc of Engineering: A Narrative on How Technologies Move from the Center to Everywhere**
 ### *A Conceptual Foundation for the Personalized LLM Meta-Project*  
 
-Dr. David B. Smith
-Center for Holistic Integration
-2026-02-10
+Dr. David B. Smith  
+Center for Holistic Integration  
+2026-02-10  
 
 ---
 
