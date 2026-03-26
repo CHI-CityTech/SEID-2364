@@ -8,7 +8,7 @@
 **Course Type:** Core Data Science Curriculum (Semester 3)  
 **Moodle Site:** [https://moodle.modul.ac.at/course/view.php?id=8146](https://moodle.modul.ac.at/course/view.php?id=8146)
 
-**Link to Current Assignment:** [Assignment 2: Intelligence](https://github.com/CHI-CityTech/SEID-2364/blob/main/assignments/Seid2364_Assignment2_Intelligence.pdf)  
+**Link to Current Assignment:** [Assignment 4: Ethical Frameworks and the Evaluation of Harm](https://github.com/CHI-CityTech/SEID-2364/blob/main/assignments/SEID2364_Assignment04_Ethical_Frameworks.md)  
 
 ---
 
