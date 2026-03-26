@@ -51,8 +51,8 @@ Examples include:
 - financial or credit systems  
 - public policy decisions  
 
-A set of examples you can refer to can also be found here, in the case studies folder of the GitHub site:
-https://github.com/CHI-CityTech/SEID-2364/blob/main/case-studies/multi_risk_scenarios.md  
+A set of examples you can refer to can also be found here, in the case studies folder:
+[../case-studies/multi_risk_scenarios.md](../case-studies/multi_risk_scenarios.md)  
 
 Describe (150–200 words):
 
