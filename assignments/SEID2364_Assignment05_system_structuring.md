@@ -2,7 +2,7 @@
 
 ## Overview
 
-This assignment builds directly on your work in Assignment 4 and the in-class dissection exercises.
+This assignment builds directly on your work in [Assignment 4](./SEID2364_Assignment04_Ethical_Frameworks.md) and the in-class dissection exercises.
 
 In Assignment 4, you evaluated a decision within a selected use case using ethical frameworks. This required you to interpret and justify an outcome, often treating the decision as if it were clearly defined and located.
 
@@ -84,6 +84,10 @@ Your Zotero library serves as a separate deliverable (outside 05-system-analysis
 
 Rewrite your use case from Assignment 4 as a **structured system description**.
 
+For this assignment, a **system** is the set of interacting actors, rules, information flows, and technical or institutional processes that repeatedly produce a type of decision across multiple instances (not just one event).
+
+In other words, if your description only explains one isolated outcome, it is not yet a system description. A system description should help someone understand how similar decisions are generated under different conditions.
+
 Begin with a **single decision statement** that clearly identifies:
 - who is making (or appears to make) the decision
 - what the decision is
@@ -128,7 +132,7 @@ Note: Roles can overlap. In some systems, the same person or entity may appear i
 
 For **Information / Data Inputs**, you must also identify:
 - **Source** — where the information originates (e.g., user input, dataset, institution)
-- **Authority** — who governs, validates, or controls that information
+- **Authority (information authority)** — who governs, validates, or controls that information
 - **Trust Basis** — why the information is accepted as valid or usable
 
 ---
@@ -165,7 +169,7 @@ You are not evaluating the decision using a framework. Instead, you are identify
 
 Focus on the distinction between:
 
-- **Authority** — who has the power to make or enforce decisions
+- **Authority (decision authority)** — who has the power to make or enforce decisions
 - **Ownership** — who controls data, systems, or processes
 - **Responsibility** — who is accountable for outcomes (even if they did not directly decide)
 - **Agency** — who or what is capable of acting within the system
@@ -233,4 +237,33 @@ Ensure that:
 - Focus on clarity and structure, not completeness
 - Avoid introducing new case material
 - Your work will be used in a collaborative activity next week
+
+---
+
+## Working Glossary for Assignment 5
+
+These are assignment-specific working definitions used in this document to keep terminology consistent.
+Some terms are intentionally nested (for example, contributors are a subset of actors).
+Framework terms are included here for continuity with Assignment 4 and may later be moved to a separate frameworks glossary.
+
+- **Actor(s)** — all entities that participate in, shape, or influence the system.
+- **Agency** — who or what can take action that changes system behavior or outcomes.
+- **Authority (decision authority)** — who can formally make, approve, or enforce a decision.
+- **Authority (information authority)** — who governs, validates, curates, or controls a given information input.
+- **Benefit** — positive impact, and where and to whom that positive impact occurs.
+- **Contributors** — a subset of actors or systems that affect outcomes without being the final decision authority.
+- **Consequentialist (consequential) reasoning** — an ethical approach that evaluates actions primarily by outcomes, including the distribution of benefits and harms.
+- **Decision Statement** — a one-sentence description of one concrete decision instance, naming apparent decision-maker, decision, and target.
+- **Deontological reasoning** — an ethical approach that evaluates actions by duties, rights, and rule-based obligations, not only by outcomes.
+- **Determinants** — rules, criteria, constraints, models, or conditions that shape likely outcomes.
+- **Downstream Decision Point** — a later choice or effect that follows from earlier decisions and system conditions.
+- **Harm** — negative impact, and where and to whom that impact occurs; in many analyses, harm is examined alongside benefit as its inverse distribution across actors and targets.
+- **Information / Data Inputs** — the information available to participants who make or influence decisions.
+- **Ownership** — who controls a resource, dataset, system component, or process.
+- **Responsibility** — who is accountable for consequences, which may differ from who had formal authority.
+- **Source** — where a specific information input originates.
+- **System** — the interacting actors, rules, information flows, and technical or institutional processes that repeatedly produce a type of decision across multiple instances.
+- **Target(s)** — who or what a decision acts on, including direct (primary) and indirect (secondary) targets.
+- **Trust Basis** — the reason an input is treated as credible or usable (for example, institutional legitimacy, method quality, legal status, or prior performance).
+- **Upstream Decision Point** — an earlier choice that shapes later conditions or options.
 
