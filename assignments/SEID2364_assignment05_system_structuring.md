@@ -118,8 +118,10 @@ Out of scope:
 
 Expand your decision into the following components:
 
+Note: Roles can overlap. In some systems, the same person or entity may appear in more than one category (for example, an actor can also be affected by the outcome and therefore be a target).
+
 - **Actor(s)** — entities that participate in or influence the system (individuals, organizations, or technical systems)
-- **Target(s)** — who or what the decision acts upon
+- **Target(s)** — who or what the decision acts upon, including both primary targets (directly acted on) and secondary targets (indirectly affected)
 - **Determinants** — factors that shape or constrain the outcome (policies, rules, models, criteria)
 - **Contributors** — actors or systems that influence the outcome without being the final decision-maker
 - **Information / Data Inputs** — what information is available to actors making or influencing the decision
@@ -140,6 +142,7 @@ For **Information / Data Inputs**, you must also identify:
 - Your description should apply to decisions of this type, not just a single instance
 - Use the same use case from Assignment 4
 - Your contrasting example must be a variation of the same use case (not a different domain)
+- Include downstream targets where relevant (for example, family members, dependents, teams, or partner organizations affected by the decision)
 
 Your goal is to move from a **single decision statement** to a **structured description of a decision-producing system**.
 
