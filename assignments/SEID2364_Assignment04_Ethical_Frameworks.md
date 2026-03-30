@@ -39,7 +39,7 @@ All work for this assignment should appear in this file.
 
 ## Part 1 – System Selection and Harm Recap (Speculative)
 
-Select the same system from Assignment 3 or a new one.
+Select the same system from [Assignment 3](./SEID2364_Assignment03_Harm_Framework.pdf) or a new one.
 
 Examples include:
 - hiring systems  
