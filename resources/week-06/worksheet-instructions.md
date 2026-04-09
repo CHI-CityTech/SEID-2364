@@ -22,3 +22,11 @@ This worksheet sequence is designed to align with the class flow.
 Use this sequence to complete:
 
 - [Assignment 6](../../assignments/SEID2364_Assignment06_mediation_pathways.md)
+
+As you move through Parts A-C, keep these assignment-aligned anchors visible:
+
+- write pathway statements in explicit SVD form
+- declare a point of origin (primary actor perspective)
+- use distance symmetries (personal/local, remote, unreachable)
+- note where pathways are simple versus chained, branching, or recursive
+- identify at least one cognitive/computational symmetry hold and one isomorphism break

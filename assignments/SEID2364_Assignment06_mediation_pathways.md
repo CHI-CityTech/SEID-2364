@@ -16,9 +16,12 @@ Your focus is on describing how agency, information, authority, accountability, 
 - **virtual space**
 - and, where relevant, the conceptual layer connecting both
 
+In BBS terms, this mapping is **relativistic rather than fixed**. You must define the **point of origin** for your analysis by naming the primary actor whose perspective anchors the map. From that point of origin, you will describe what counts as **local**, **remote**, **distant**, or **unreachable** space within the mediated system.
+
 You must include all major mediation pathways in your selected system and explain how each pathway moves through space, transforms information, and shapes outcomes.
 
 This is especially important in an increasingly **combinative reality** where human, institutional, and AI processes are interwoven. Clear pathway description is the foundation for rigorous ethical analysis in these blended conditions.
+This work is aligned with the BBS emphasis on structural symmetry across domains, including physical/virtual space and cognitive/computational intelligence.
 
 This assignment is **enfolded** into the course's Applied Ethical Projects assessment category (it does not add a separate grading category).
 
@@ -29,6 +32,7 @@ This assignment is **enfolded** into the course's Applied Ethical Projects asses
 Before completing this assignment, you must:
 
 - Read [BBS Foundations for Ethical Analysis](../resources/BBS-Foundations-for-Ethical-Analysis.md)
+- Review [Balanced Blended Space (BBS) Website](https://sites.google.com/view/balancedblendedspace/home)
 - Read [The Arc of Engineering: A Narrative on How Technologies Move from the Center to Everywhere](../resources/05-arc_of_engineering_paper.md)
 - Investigate at least one additional source on mediation pathways in socio-technical systems (academic, policy, technical, or institutional source)
 
@@ -42,7 +46,11 @@ You should also review your own Assignment 5 submission before starting.
 - Build a repeatable, systematic method for describing mediation pathways in complex systems
 - Describe how pathways move through physical and virtual environments
 - Distinguish and trace **physical agency** and **virtual agency** across the same system
+- Define a clear **point of origin** and map pathways from a stated observer perspective
 - Map who has access to which information, at which stage, and under what authority
+- Use **Source-Vector-Destination (SVD)** syntax to formalize mediation pathways
+- Use BBS **symmetries of distance** to describe how mediated pathways move relative to the primary actor
+- Identify relevant structural symmetries and asymmetries in the mapped system
 - Identify where pathways transform, narrow, branch, or break
 - Distinguish visible and hidden mediation steps
 - Improve clarity in pathway tracing before later ethical evaluation
@@ -88,16 +96,22 @@ At minimum, include:
 
 For each pathway, state:
 
-- Source
-- Vector (what mediates and transforms the flow)
-- Destination
+- The full **SVD pathway syntax** in one line: **Source -> Vector -> Destination**
+- **Source node** on the BBS Quad (state where the pathway originates relative to your map)
+- **Vector** (what mediates and transforms the flow)
+- **Destination node** on the BBS Quad (state where the pathway arrives relative to your map)
 - What moves through the pathway (data, instruction, authority signal, responsibility claim, etc.)
 - Where **physical agency** is exercised (who/what can act in embodied or institutional settings)
 - Where **virtual agency** is exercised (who/what can act through platforms, models, interfaces, and computational processes)
 - Who can access the information at each stage (read, write, modify, approve, block)
 - What access condition applies (role, policy, platform permission, contract, law, technical gate)
 
-### Part 3 — Physical and Virtual Travel Description
+Each pathway must be written as a traceable mediation statement rather than a loose label. Treat the SVD line as the formal pathway description and use the remaining bullets to unpack how the pathway operates.
+Some pathways will be simple and direct. Others may be **chained**, **branching**, or **recursive**: a destination may become a new source, one vector may lead to multiple destinations, or what appears to be one vector at a high level may be unpacked into smaller SVD relations when finer analysis is needed.
+
+### Part 3 — Relativistic Physical and Virtual Travel Description
+
+Before describing pathway travel, explicitly name the **point of origin** for your map: whose perspective are you tracing from, and why is that actor the correct primary reference point?
 
 For each pathway, describe how it travels through:
 
@@ -107,6 +121,8 @@ For each pathway, describe how it travels through:
 Your description must make clear where transitions occur between physical and virtual layers.
 Your description must also identify where agency shifts between physical and virtual contexts, and where one layer constrains or amplifies the other.
 Your description must identify where information access changes (expands, narrows, or is denied) as pathways move through these layers.
+Your description must use the **relativistic BBS Quad** rather than an assumed fixed map: explain what counts as **personal/local**, **remote**, or **unreachable** from the point of origin, and show how that distance is produced by mediation rather than by geography alone.
+If two actors would map the same pathway differently, briefly note how the pathway changes when the observer position changes.
 
 ### Part 4 — Pathway Transformation and Friction Analysis
 
@@ -119,8 +135,12 @@ For each major pathway, identify:
 - Where authority and responsibility diverge
 - Where ethical distance increases
 - Where feedback loops are present or absent
+- Where the assumed symmetry between **cognitive intelligence** and **computational intelligence** holds, and where it breaks
+- Where the AI system is treated as a **mere tool** versus where it functions more like a **collaborative partner** in the pathway
 
 Use concrete system-specific examples.
+
+At least one example in this section must explicitly analyze an **isomorphism break**: identify a point where the human-AI relationship appears structurally symmetrical at first, but the symmetry fails because one side cannot interpret, respond, consent, explain, or share responsibility in the same way as the other.
 
 Your analysis should demonstrate method consistency: if another person followed your structure, they should be able to reconstruct the same pathway logic and evaluate it ethically.
 

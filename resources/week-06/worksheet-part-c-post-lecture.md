@@ -13,12 +13,16 @@ System / Use Case: _______________________________________________
 ## C1. Pathway Inventory
 
 List at least three pathways.
+Some pathways will be simple and direct. Others may be **chained**, **branching**, or **recursive**: a destination may become a new source, one vector may lead to multiple destinations, or what appears to be one vector at a high level may be unpacked into smaller SVD relations when finer analysis is needed.
 
 ### Data pathway
 
+- Full SVD line: ___________________________________________________
 - Source: __________________________________________________________
 - Vector: __________________________________________________________
 - Destination: _____________________________________________________
+- Source node on the relativistic BBS Quad: _________________________
+- Destination node on the relativistic BBS Quad: ____________________
 - What is transmitted: _____________________________________________
 - Physical agency point(s): ________________________________________
 - Virtual agency point(s): _________________________________________
@@ -29,9 +33,12 @@ List at least three pathways.
 
 ### Decision pathway
 
+- Full SVD line: ___________________________________________________
 - Source: __________________________________________________________
 - Vector: __________________________________________________________
 - Destination: _____________________________________________________
+- Source node on the relativistic BBS Quad: _________________________
+- Destination node on the relativistic BBS Quad: ____________________
 - What is transmitted: _____________________________________________
 - Physical agency point(s): ________________________________________
 - Virtual agency point(s): _________________________________________
@@ -42,9 +49,12 @@ List at least three pathways.
 
 ### Accountability pathway
 
+- Full SVD line: ___________________________________________________
 - Source: __________________________________________________________
 - Vector: __________________________________________________________
 - Destination: _____________________________________________________
+- Source node on the relativistic BBS Quad: _________________________
+- Destination node on the relativistic BBS Quad: ____________________
 - What is transmitted: _____________________________________________
 - Physical agency point(s): ________________________________________
 - Virtual agency point(s): _________________________________________
@@ -56,6 +66,14 @@ List at least three pathways.
 ---
 
 ## C2. Physical and Virtual Travel Trace
+
+Point of origin (primary actor perspective): _________________________
+
+Distance categories from this perspective:
+
+- Personal/Local: _________________________________________________
+- Remote: _________________________________________________________
+- Unreachable: ____________________________________________________
 
 For each pathway, list nodes and transitions.
 
@@ -89,6 +107,9 @@ Pathway name: ____________________________
 - Authority/responsibility divergence: ______________________________
 - Distance increase point: _________________________________________
 - Missing or weak feedback loop: ___________________________________
+- Cognitive/computational symmetry hold point: ______________________
+- Isomorphism break point: ________________________________________
+- AI role at that point (mere tool or collaborative partner): ________
 
 Pathway name: ____________________________
 
@@ -98,6 +119,9 @@ Pathway name: ____________________________
 - Authority/responsibility divergence: ______________________________
 - Distance increase point: _________________________________________
 - Missing or weak feedback loop: ___________________________________
+- Cognitive/computational symmetry hold point: ______________________
+- Isomorphism break point: ________________________________________
+- AI role at that point (mere tool or collaborative partner): ________
 
 ---
 

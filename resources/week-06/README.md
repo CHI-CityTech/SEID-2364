@@ -4,6 +4,8 @@ This folder contains the in-class worksheet set split by lecture phase.
 
 ## Files
 
+- [Framing Slides Outline (Pre-BBS + Assignment Bridge)](./framing-slides-outline.md)
+- [Framing Slides Speaker Notes (Slide-by-Slide Script)](./framing-slides-speaker-notes.md)
 - [Worksheet Instructions (Flow and Timing)](./worksheet-instructions.md)
 - [Worksheet Part A — Pre-Lecture Activation](./worksheet-part-a-pre-lecture.md)
 - [Worksheet Part B — Lecture Capture](./worksheet-part-b-lecture-capture.md)

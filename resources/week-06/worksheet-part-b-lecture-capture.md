@@ -22,6 +22,8 @@ Fill during lecture as the BBS structure is built from the ground up.
 | Physical Agency |  |  |
 | Virtual Agency |  |  |
 | Distance (space/time/information) |  |  |
+| Point of Origin (Primary Actor) |  |  |
+| Symmetries of Distance (personal/local, remote, unreachable) |  |  |
 | Mediation |  |  |
 | Source-Vector-Destination Pathway |  |  |
 
@@ -42,5 +44,13 @@ ____________________________________________________________________
 ____________________________________________________________________
 
 4. Which concept became your main inflection point bridge?
+
+____________________________________________________________________
+
+5. From whose perspective are you mapping, and why is that actor your point of origin?
+
+____________________________________________________________________
+
+6. Where does cognitive/computational symmetry hold in one pathway, and where does it break?
 
 ____________________________________________________________________

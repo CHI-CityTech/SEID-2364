@@ -56,6 +56,18 @@ Source -> Vector -> Destination
 
 ____________________________________________________________________
 
+10. Point of origin (primary actor perspective) for your map:
+
+____________________________________________________________________
+
+11. From that point of origin, how would you classify distance for your pathway right now?
+
+[ ] Personal/Local
+
+[ ] Remote
+
+[ ] Unreachable
+
 ---
 
 ## Inflection Point Marker
@@ -79,6 +91,10 @@ ____________________________________________________________________
 [ ] Hidden transformation points in pathway flow
 
 [ ] Unclear transitions between physical and virtual space
+
+[ ] No clear point of origin (observer perspective)
+
+[ ] Distance categories unclear (personal/local, remote, unreachable)
 
 [ ] Authority/responsibility diffusion
 
