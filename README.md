@@ -8,7 +8,10 @@
 **Course Type:** Core Data Science Curriculum (Semester 3)  
 **Moodle Site:** [https://moodle.modul.ac.at/course/view.php?id=8146](https://moodle.modul.ac.at/course/view.php?id=8146)
 
-**Link to Current Assignment:** [Assignment 4: Ethical Frameworks and the Evaluation of Harm](https://github.com/CHI-CityTech/SEID-2364/blob/main/assignments/SEID2364_Assignment04_Ethical_Frameworks.md)  
+## 🔗 **Link to Current Assignment**
+
+[Assignment 6: Mediation Pathways Across Physical and Virtual Space](./assignments/SEID2364_Assignment06_mediation_pathways.md) - map and analyze how agency, information, authority, and accountability travel through mediated systems.  
+**Before You Start:** Complete [Assignment 5: System Structuring and Ethical Analysis](./assignments/SEID2364_Assignment05_system_structuring.md) and [Assignment 4: Ethical Frameworks and the Evaluation of Harm](./assignments/SEID2364_Assignment04_Ethical_Frameworks.md). Also pull from class activities in [GitHub In-Class Task](./resources/04-SEID2364-in-class_github_tasks.md) and [Zotero In-Class Task](./resources/04-SEID2364-in-class_zotero_task.md).  
 
 ---
 
