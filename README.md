@@ -10,8 +10,8 @@
 
 ## 🔗 **Link to Current Assignment**
 
-[Assignment 5: System Structuring](./assignments/SEID2364_Assignment05_system_structuring.md) - build a clear ethical system map that integrates stakeholders, risks, and governance choices.  
-**Before You Start:** Complete [Assignment 4: Ethical Frameworks and the Evaluation of Harm](./assignments/SEID2364_Assignment04_Ethical_Frameworks.md) - apply core ethical frameworks to evaluate harm in a concrete scenario. Also pull from class activities in [GitHub In-Class Task](./resources/04-SEID2364-in-class_github_tasks.md) and [Zotero In-Class Task](./resources/04-SEID2364-in-class_zotero_task.md).  
+[Assignment 6: Mediation Pathways Across Physical and Virtual Space](./assignments/SEID2364_Assignment06_mediation_pathways.md) - map and analyze how agency, information, authority, and accountability travel through mediated systems.  
+**Before You Start:** Complete [Assignment 5: System Structuring and Ethical Analysis](./assignments/SEID2364_Assignment05_system_structuring.md) and [Assignment 4: Ethical Frameworks and the Evaluation of Harm](./assignments/SEID2364_Assignment04_Ethical_Frameworks.md). Also pull from class activities in [GitHub In-Class Task](./resources/04-SEID2364-in-class_github_tasks.md) and [Zotero In-Class Task](./resources/04-SEID2364-in-class_zotero_task.md).  
 
 ---
 
