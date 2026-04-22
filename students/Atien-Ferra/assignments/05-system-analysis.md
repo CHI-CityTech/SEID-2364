@@ -1,10 +1,10 @@
 ## Part 1 - System Structure (Descriptive Layer)
 
 -   Actors
-The main actors are the employer, recruiters or hiring managers, the applicant, and the vendor that builds or maintains the screening tool. The technical system also acts inside the process because it parses resumes, scores assessments, ranks candidates, or flags applications for review. NIST treats these roles as part of the broader set of AI actors involved in design, development, deployment, and use.
+The main actors in this case are the employers, recruiters or hiring managers, the applicant, and the vendor that builds or maintains the screening tool. The technical system also acts inside the process because it parses resumes, scores assessments, ranks candidates, or flags applications for review. NIST treats these roles as part of the broader set of AI actors involved in design, development, deployment, and use.
 
 -   Targets
-The primary target is the applicant whose file is scored, ranked, advanced, or rejected. Secondary targets include other applicants competing for the same role, the employer team that depends on the hiring outcome, and people connected to the applicant, such as dependents who may be affected by loss of opportunity. 
+The primary target is the applicant whose file is scored, ranked, advanced, or rejected. Secondary targets include other applicants competing for the same role, the employer that depends on the hiring outcome, and people connected to the applicant, such as dependents who may be affected by loss of opportunity. 
 
 -   Determinants
 The main determinants are job requirements, screening criteria, model design, training data, assessment thresholds, accommodation rules, and employer policy. These factors shape what counts as a strong or weak application before any final human review happens. Research on algorithmic hiring shows that vendor choices about prediction targets, data collection, and validation can strongly affect results.
@@ -16,7 +16,7 @@ Contributors are actors that influence the outcome without always making the fin
 The system uses resumes, application forms, test results, interview responses, job descriptions, historical hiring data, and employer-set criteria. Some systems also use chat-based screening or video interview analysis. These inputs are transformed into features, scores, and rankings that guide later decisions.
 
 -   Source
-Some information comes from the applicant, such as work history, education, assessments, and interview answers. Some comes from the employer, such as job requirements and screening thresholds. Some comes from vendors or prior datasets used to build and validate the system.
+Some information comes from the person applying, such as work history, education, assessments, and interview answers. Some comes from the employer, such as job requirements and screening thresholds. Some comes from vendors or prior datasets used to build and validate the system.
 
 -   Authority
 Applicants control the first submission of their own materials, but employers and vendors often control how those materials are stored, interpreted, and scored. Employers also control job criteria and the conditions under which the tool is used. NIST frames this as a governance issue across the AI lifecycle, while the EEOC makes clear that employers remain responsible when these tools are used in employment decisions.
