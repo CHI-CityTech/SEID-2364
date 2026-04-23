@@ -3,8 +3,8 @@
 
 **Course:** SEID 2364  
 **Instructor:** Dr. David B. Smith  
-**Date Assigned:** [Insert Date]  
-**Due Date:** [Insert Date]
+**Date Assigned:** Week 8  
+**Due Date:** Week 9
 
 ---
 
@@ -58,7 +58,7 @@ You are not redefining the system—you are **reconfiguring its use**.
 
 You must select **one system only** from the System Selection Set:
 
-https://github.com/CHI-CityTech/SEID-2364/blob/main/resources/08-SEID2364_usecase_system_set.md
+[08-SEID2364_usecase_system_set](../resources/08-SEID2364_usecase_system_set.md)
 
 You must use the same core system across all parts of the assignment.
 
@@ -105,6 +105,22 @@ You must identify **at least 2 additional sources** that:
 - or analyze its implementation  
 
 All sources must be added to Zotero.
+
+---
+
+### Step 4 — Bias and Fairness Foundations (Required)
+
+Read the following Stanford Encyclopedia of Philosophy entries:
+- Implicit Bias: https://plato.stanford.edu/entries/implicit-bias/
+- Algorithmic Fairness: https://plato.stanford.edu/entries/algorithmic-fairness/
+- Ethics of Search Engines: https://plato.stanford.edu/entries/ethics-search/
+
+Then write a brief synthesis (**250-400 words**) that does the following:
+- define bias and fairness in your own terms using the readings
+- identify one tension between implicit bias and algorithmic fairness
+- explain how search/ranking ethics clarifies at least one risk in your selected system
+
+This synthesis should be integrated into Sections 5 and 7 (not submitted as a separate assignment).
 
 ---
 
@@ -208,6 +224,10 @@ Across all deployments:
 - at least one indirect harm pathway  
 
 This must be comparative.
+
+**Required Add-On (from Step 4):**
+- include a short subsection titled **Bias and Fairness Synthesis**
+- connect at least two of the SEP readings directly to your three deployments
 
 ---
 
