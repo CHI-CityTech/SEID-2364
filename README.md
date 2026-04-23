@@ -14,7 +14,7 @@
 
 **Supporting materials:**
 - [System Selection Set](./resources/08-SEID2364_usecase_system_set.md) — curated systems to choose from
-- [Bias and Fairness Readings](https://plato.stanford.edu/entries/algorithmic-fairness/) — SEP entries on implicit bias, algorithmic fairness, and ethics of search engines (see assignment for full list)
+
 
 ---
 
