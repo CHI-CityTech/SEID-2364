@@ -9,6 +9,8 @@ This document provides a curated set of systems for Assignment 08. Each system i
 
 Students should select **one system only** and use it consistently across all parts of the assignment.
 
+**If your prior system (from Assignments 4–7) closely resembles one of the options below, you must select a different system for this assignment.** Assignment 8 is intended as a fresh analytical start — do not carry forward a system you have already analyzed in depth.
+
 These descriptions define the **core technical function** of each system. Deployment context should be introduced by the student in the assignment itself.
 
 ---

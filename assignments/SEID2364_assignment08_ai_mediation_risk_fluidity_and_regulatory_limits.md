@@ -1,5 +1,5 @@
 # SEID 2364 — Assignment 08
-## AI Mediation, Risk Fluidity, and Regulatory Limits
+## Bias, Decision-Making, and Harm in AI-Mediated Systems
 
 **Course:** SEID 2364  
 **Instructor:** Dr. David B. Smith  
@@ -10,47 +10,30 @@
 
 ## Framing
 
-In Assignment 7, you evaluated your system using the EU AI Act as a fixed regulatory framework. You classified your system across use cases, justified those classifications using legal text, and engaged with critical policy analysis identifying potential weaknesses in the Act.
+In Assignment 7, you evaluated an AI system through the lens of EU AI Act regulation. That work was about classification — fitting a system into a fixed regulatory structure and examining what that structure demands.
 
-This assignment extends that work by testing a core assumption embedded in the Act:
+This assignment asks a different question:
 
-> that AI systems can be consistently classified within stable risk categories.
+> Where does bias enter an AI system, and how does it shape decisions and produce harm?
 
-You will investigate how this assumption holds—or fails—when a system is reconfigured across different contexts of use.
+This is not a classification exercise. You are not categorizing risk — you are tracing it. The focus is on the internal logic of a system: how design choices, data sources, decision authority, and deployment context create conditions for bias to emerge, persist, or amplify.
 
-The focus shifts from:
-- applying a regulatory framework  
-to  
-- **examining how that framework behaves under changing system conditions**
-
-You will construct multiple deployments of a single system and analyze how:
-- risk classification changes  
-- mediation pathways shift  
-- bias, trust, and harm emerge differently  
-- regulatory interpretation becomes unstable  
+The EU AI Act may be relevant as context or as a reference point, but it is not the analytical framework here. The core tools for this assignment come from the required readings.
 
 ---
 
 ## Assignment Overview
 
-You will select a system from a provided set and develop **multiple deployment scenarios** of that system.
+You will select a **new system** from the provided set and develop **three deployment scenarios** of that system. Across those scenarios, you will trace how bias enters and changes, how decisions are shaped, and how harm — direct and indirect — flows through the system's mediation structure.
 
-Your work must:
+**Core Constraint:**
+The system itself must remain constant. Variation occurs only through:
+- deployment context
+- user group
+- decision authority
+- integration within a broader structure
 
-- Demonstrate how a single system can occupy different EU AI Act risk categories  
-- Analyze how mediation pathways change across deployments  
-- Identify how bias, trust, and harm shift as a function of system configuration  
-- Critically evaluate whether the EU AI Act adequately accounts for these changes  
-- Integrate external research, including both supportive and critical perspectives  
-
-**Core Constraint:**  
-The system itself must remain constant. Variation must occur only through:
-- deployment context  
-- user group  
-- decision authority  
-- integration within a broader system  
-
-You are not redefining the system—you are **reconfiguring its use**.
+You are not redefining the system — you are **reconfiguring its use** and analyzing what that reconfiguration produces.
 
 ---
 
@@ -60,6 +43,8 @@ You must select **one system only** from the System Selection Set:
 
 [08-SEID2364_usecase_system_set](../resources/08-SEID2364_usecase_system_set.md)
 
+**Important:** If your prior system (from Assignments 4–7) closely resembles one of the options in the set, you must select a **different system** for this assignment. Assignment 8 is intended as a fresh analytical start. Prior familiarity with a system is not a valid reason to reuse it — the goal is to develop new analytical range.
+
 You must use the same core system across all parts of the assignment.
 
 Assume a baseline implementation using contemporary machine learning or LLM-based methods unless otherwise specified.
@@ -68,59 +53,26 @@ Custom systems are not permitted for this assignment.
 
 ---
 
-## Required Reading Strategy
+## Required Readings
 
-### Step 1 — Prior Work (Required)
+These readings are the analytical foundation of the assignment. Your analysis must engage with them directly — not as background, but as tools for identifying and describing what is happening in your system.
 
-Review your Assignment 7 submission, including:
-- classification logic  
-- mediation pathway  
-- engagement with EU AI Act critique  
+### Core (Required)
 
-You will extend—not repeat—this work.
+- **Implicit Bias** — Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/entries/implicit-bias/
+- **Algorithmic Fairness** — Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/entries/algorithmic-fairness/
+- **Ethics of Search Engines** — Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/entries/ethics-search/
 
----
+Before beginning the assignment tasks, write a **brief synthesis (250–400 words)** that:
+- defines bias and fairness in your own terms using the readings
+- identifies one tension between implicit bias and algorithmic fairness
+- explains how search/ranking ethics clarifies at least one risk in your selected system
 
-### Step 2 — EU AI Act (Required)
+This synthesis should appear as a standalone section before your deployment analysis, not embedded in a later task.
 
-Use the Act to support all classification decisions.
+### Supplementary (Required)
 
-Focus on:
-- Article 5  
-- Article 6 + Annex III  
-- Article 50  
-
----
-
-### Step 3 — Critical Policy Analysis (Required)
-
-Revisit:
-- *Packed with Loopholes: Why the AI Act Fails to Protect Civic Space and Rule of Law*
-
-Then expand beyond it.
-
-You must identify **at least 2 additional sources** that:
-- support the Act  
-- critique the Act  
-- or analyze its implementation  
-
-All sources must be added to Zotero.
-
----
-
-### Step 4 — Bias and Fairness Foundations (Required)
-
-Read the following Stanford Encyclopedia of Philosophy entries:
-- Implicit Bias: https://plato.stanford.edu/entries/implicit-bias/
-- Algorithmic Fairness: https://plato.stanford.edu/entries/algorithmic-fairness/
-- Ethics of Search Engines: https://plato.stanford.edu/entries/ethics-search/
-
-Then write a brief synthesis (**250-400 words**) that does the following:
-- define bias and fairness in your own terms using the readings
-- identify one tension between implicit bias and algorithmic fairness
-- explain how search/ranking ethics clarifies at least one risk in your selected system
-
-This synthesis should be integrated into Sections 5 and 7 (not submitted as a separate assignment).
+Identify **at least 2 additional sources** relevant to bias, fairness, or AI decision-making in the domain of your selected system. All sources must be added to Zotero and cited in your document.
 
 ---
 
@@ -133,195 +85,164 @@ Complete the following as a structured document.
 ### 1. System Definition (Concise)
 
 Describe the core system:
-- what it does  
-- what type of AI function it performs  
-- inputs and outputs  
+- what it does
+- what type of AI function it performs
+- inputs and outputs
 
-Do **not** include deployment context.
+Do **not** include deployment context here.
 
 ---
 
-### 2. Deployment Scenarios (Critical Section)
+### 2. Bias and Fairness Synthesis
 
-Construct **three distinct deployments** of the same system.
+Submit your synthesis from the Required Readings section here as a standalone section (250–400 words). This should precede your deployment analysis and establish the conceptual vocabulary you will use throughout.
 
-Each must vary:
-- user group  
-- institutional context  
-- decision authority (advisory vs decision-making)  
-- level of consequence  
+---
 
-**Required Constraints:**
-- At least one deployment must result in a **High Risk or Prohibited Risk classification**  
-- At least one deployment must result in a **Limited or Minimal Risk classification**  
+### 3. Deployment Scenarios
 
-**Required Condition:**
-For each deployment, explicitly identify **what change causes the shift in risk classification**.
+Construct **three distinct deployments** of the same system. Each must vary across:
+- user group
+- institutional context
+- decision authority (advisory vs. decision-making)
+- level of consequence
 
-Examples of valid changes:
-- decision authority  
-- user population  
-- institutional context  
-- system integration  
-
-**Additional Requirement:**
+**Required:**
 - At least one deployment must represent a **non-obvious or secondary use** of the system
+- For each deployment, explicitly state **what has changed** from the baseline and why it matters analytically
 
 ---
 
-### 3. EU AI Act Classification
+### 4. Mediation Pathway and Bias Location (Core Task)
 
-For each deployment:
-- assign a risk category  
-- justify using specific articles and/or annex references  
+For each deployment, construct a mediation pathway that maps the flow of information, decisions, and outputs through the system. The pathway should trace the journey from initial input to final consequence.
 
-**Required Artifact (Table):**
+**Required pathway elements:**
+- Sources (where data and inputs originate)
+- Vectors (how information moves and is transformed)
+- Destinations (who receives outputs and acts on them)
+- Boundary objects (points where information crosses between actors, systems, or contexts)
+- Decision points (where outputs become decisions or recommendations)
 
-| Deployment | Change Introduced | AI Role | Decision Authority | Risk Level | Justification |
-|----------|------------------|---------|--------------------|------------|--------------|
+**Bias location is the primary analytical task.** For each element in the pathway, identify:
+- Whether bias can be introduced at that point
+- What form that bias takes (e.g., sampling bias, labeling bias, feedback loops, proxy variables, interface framing, authority assumptions)
+- Whether the bias is introduced fresh, inherited from an earlier stage, or emergent from the combination of multiple pathway elements
 
-This table is required.
+The goal is to be **exhaustive in identifying candidate locations** — do not limit yourself to the most obvious entry points. Every transformation, handoff, and design choice in the pathway is a potential bias site.
 
----
+**Required artifact:** For each deployment, produce either:
+- a structured pathway diagram (annotated with bias locations), or
+- a structured table listing each pathway stage, the transformation occurring, and the bias risk at that stage
 
-### 4. Mediation Pathway Analysis (BBS)
-
-For each deployment:
-- construct or revise a mediation pathway  
-
-Include:
-- sources  
-- vectors  
-- destinations  
-- boundary objects  
-
-Indicate:
-- transformation points  
-- visibility changes  
-- decision authority  
-
-**Requirement:**
-Identify at least one **structural change in mediation** between deployments.
+**Comparative requirement:** After mapping all three deployments, identify:
+- which bias locations are consistent across all deployments
+- which are specific to particular deployment configurations
+- where changing the deployment context creates new bias risks that did not exist before
 
 ---
 
-### 5. Bias, Trust, and Harm (Comparative Analysis)
+### 5. Decision Pathway Analysis
 
-Across all deployments:
+For each deployment, trace how the system's output becomes a consequential decision:
+- What does the system produce?
+- Who receives that output, and with what authority to act on it?
+- What happens if the output is wrong, biased, or incomplete?
 
-**Bias**
-- where it enters  
-- how it changes  
-- whether it is introduced, inherited, or emergent  
-
-**Trust**
-- where it is placed  
-- how it shifts between human and AI  
-
-**Harm**
-- types of harm  
-- direct vs indirect  
-- at least one indirect harm pathway  
-
-This must be comparative.
-
-**Required Add-On (from Step 4):**
-- include a short subsection titled **Bias and Fairness Synthesis**
-- connect at least two of the SEP readings directly to your three deployments
+Identify:
+- where human judgment enters or exits the decision pathway
+- where accountability is clear, diffused, or absent
+- how the mediation structure shapes who is visible and who is not to the decision-maker
 
 ---
 
-### 6. Regulatory Implications
+### 6. Harm Analysis
 
-For each deployment:
-- identify obligations  
-- describe compliance requirements  
+Across all three deployments:
 
-Then analyze:
-- whether obligations shift across deployments  
-- whether they are sufficient
+**Direct harm**
+- What harms are directly traceable to the system's output?
 
----
+**Indirect harm**
+- What harms emerge downstream, through the decisions or structures the system feeds into?
+- Identify at least one indirect harm pathway
 
-### 7. Critical Evaluation (Core Argument)
+**Distribution**
+- Who is harmed, and who is not?
+- Are harms evenly distributed or concentrated in particular populations?
 
-Respond to:
-
-> Does the EU AI Act adequately account for how risk changes when the same system is deployed differently?
-
-Ground your response in:
-- your scenarios  
-- required readings  
-- external research
+Connect this section explicitly to the harm vocabulary from prior course work.
 
 ---
 
-### 8. Research Integration
+### 7. Critical Reflection
 
-Include at least 3 sources:
-- ECNL critique (required)  
-- at least 2 additional sources  
+Respond to the following question in **400–600 words**:
 
-All sources must be:
-- in Zotero  
-- cited in your document
+> Given what you have found, where does responsibility for bias-related harm sit — in the system, in the people who deploy it, or in the structures that surround it?
+
+Ground your response in your deployment analysis and the required readings. You may reference the EU AI Act if relevant, but regulatory classification is not the point — the question is about responsibility and structure.
 
 ---
 
 ## Deliverables
 
 Submit via GitHub:
-- main document (.md or .pdf)  
-- diagrams  
-- Zotero entries  
+- main document (.md or .pdf)
+- any diagrams
+- Zotero entries
 
-Recommended filename:
-
-`08-ai-mediation-risk-fluidity.md`
+Recommended filename: `08-bias-decision-harm.md`
 
 ---
 
 ## Assessment Criteria
 
-### Risk Classification
-- Excellent: clear, context-sensitive variation  
-- Competent: partial variation  
-- Needs Revision: static or unsupported
+### Bias and Fairness Synthesis
+- Excellent: defines terms precisely, identifies a genuine tension, connects directly to the selected system
+- Competent: definitions present, connection to system partial
+- Needs Revision: generic or disconnected from the readings
 
-### Mediation Analysis
-- Excellent: structural changes clearly shown  
-- Competent: partial connection  
-- Needs Revision: unclear or missing
+### Deployment Scenarios
+- Excellent: distinct, well-motivated, variation is analytically meaningful
+- Competent: scenarios differ but variation is surface-level
+- Needs Revision: scenarios are too similar or changes are not explained
 
-### Bias / Trust / Harm
-- Excellent: comparative and specific  
-- Competent: partially developed  
-- Needs Revision: generic
+### Mediation Pathway and Bias Location
+- Excellent: pathway fully mapped for each deployment; bias locations identified at multiple stages with specific descriptions; comparative analysis identifies what is consistent vs. deployment-specific
+- Competent: pathway present and some bias locations identified; comparative element partial
+- Needs Revision: pathway incomplete or bias locations limited to one or two obvious points
 
-### Regulatory Critique
-- Excellent: grounded and structural  
-- Competent: limited grounding  
-- Needs Revision: general
+### Decision Pathway
+- Excellent: clear account of how outputs become decisions; accountability and visibility mapped
+- Competent: pathway present but accountability unclear
+- Needs Revision: missing or superficial
+
+### Harm Analysis
+- Excellent: direct and indirect harms identified; distribution analyzed; connected to course vocabulary
+- Competent: harms named but not traced or distributed
+- Needs Revision: vague or incomplete
+
+### Critical Reflection
+- Excellent: takes a clear position, grounded in analysis and readings
+- Competent: position present but weakly supported
+- Needs Revision: restates the question without engaging it
 
 ### Research Integration
-- Excellent: sources actively inform analysis  
-- Competent: present but weak  
-- Needs Revision: minimal
+- Excellent: sources actively inform analysis throughout
+- Competent: sources cited but not integrated
+- Needs Revision: minimal or absent
 
 ---
 
 ## Notes
 
-In Assignment 7, you identified that classification depends on conditions of use.
-
-In this assignment, you must **construct those conditions explicitly** and demonstrate how they alter classification.
-
-You are not expected to resolve ambiguity.
+This assignment is not asking you to resolve questions about bias and harm. It is asking you to locate them — to identify precisely where in a system's structure and deployment context they arise, and to reason about what follows from that.
 
 You are expected to:
-- identify it  
-- construct it  
-- reason through it systematically
+- use the readings as analytical tools, not background
+- make your reasoning visible
+- be specific rather than comprehensive
 
 ---
 
