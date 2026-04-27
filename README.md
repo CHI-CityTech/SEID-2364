@@ -8,13 +8,25 @@
 **Course Type:** Core Data Science Curriculum (Semester 3)  
 **Moodle Site:** [https://moodle.modul.ac.at/course/view.php?id=8146](https://moodle.modul.ac.at/course/view.php?id=8146)
 
-## 🔗 **Link to Current Assignment**
+## 🔗 **Current Assignment**
 
-[Assignment 7: EU AI Act System Evaluation](./assignments/SEID2364_Assignment07_eu_ai_act_system_evaluation.md) — evaluate your system using the EU AI Act, classify it within the regulatory risk categories, and analyze how risk is produced and distributed through your mediation pathways.  
-**Before You Start:** Complete [Assignment 6: Mediation Pathways Across Physical and Virtual Space](./assignments/SEID2364_Assignment06_mediation_pathways.md), which this assignment builds directly on.
+[Assignment 8: Bias, Decision-Making, and Harm in AI-Mediated Systems](./assignments/SEID2364_assignment08_ai_mediation_risk_fluidity_and_regulatory_limits.md) — select a new AI system, construct three deployment scenarios, and map where bias enters and travels through a mediation pathway, how it shapes decisions, and what harms it produces.
 
-### Previous Assignment
-[Assignment 6: Mediation Pathways Across Physical and Virtual Space](./assignments/SEID2364_Assignment06_mediation_pathways.md) — map and analyze how agency, information, authority, and accountability travel through mediated systems. Builds on [Assignment 5: System Structuring and Ethical Analysis](./assignments/SEID2364_Assignment05_system_structuring.md) and [Assignment 4: Ethical Frameworks and the Evaluation of Harm](./assignments/SEID2364_Assignment04_Ethical_Frameworks.md).
+**Supporting materials:**
+- [System Selection Set](./resources/08-SEID2364_usecase_system_set.md) — curated systems to choose from
+
+
+---
+
+<details>
+<summary>Previous Assignments</summary>
+
+- [Assignment 7: EU AI Act System Evaluation](./assignments/SEID2364_Assignment07_eu_ai_act_system_evaluation.md) — classify a system within EU AI Act risk categories and analyze how risk is produced and distributed through mediation pathways.
+- [Assignment 6: Mediation Pathways Across Physical and Virtual Space](./assignments/SEID2364_Assignment06_mediation_pathways.md) — map how agency, information, authority, and accountability travel through mediated systems.
+- [Assignment 5: System Structuring and Ethical Analysis](./assignments/SEID2364_Assignment05_system_structuring.md)
+- [Assignment 4: Ethical Frameworks and the Evaluation of Harm](./assignments/SEID2364_Assignment04_Ethical_Frameworks.md)
+
+</details>
 
 ---
 
