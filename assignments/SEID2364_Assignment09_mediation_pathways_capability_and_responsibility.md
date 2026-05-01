@@ -23,12 +23,16 @@ This assignment shifts the focus again.
 
 > Not just *where bias or harm exists*, but *how harm emerges through mediation pathways under real conditions of system capability*.
 
+A critical question emerges: **Is the harm truly unintended, or is it foreseeable but not prevented?**
+
 Drawing from strategic analysis (Sun Tzu, Clausewitz), we treat ethics not as intention, but as **capability under constraint**.
 
 A system is therefore evaluated by:
 
 - what it **can do**
 - under **actual conditions of access, visibility, and control**
+- whether harmful capabilities were **known but not constrained**
+- whether responsibility was **distributed to avoid accountability**
 
 ---
 
@@ -83,13 +87,30 @@ Your task is to:
 
 ---
 
-## Part 0 – Repository Preparation
+## Part 0 – Repository Preparation and Incident Selection
 
 Create a new file in your repository:
 
 `assignment-09/pathways.md`
 
 All work for this assignment must appear in this file.
+
+### Incident Selection
+
+Before beginning, select a real-world incident that involves multiple agents, traceable mediation pathways, and sufficient documentation.
+
+For guidance on what makes a suitable incident and where to find current examples, see:
+
+[Incident Selection Guide](../resources/09-SEID2364_Assignment09_incident_selection_guide.md)
+
+This guide provides:
+- Criteria for evaluating potential incidents
+- Domain examples (AI hiring, content moderation, healthcare, autonomous systems, data/privacy)
+- Where to find current, well-documented incidents
+- What NOT to select
+- How to vet your choice
+
+You are responsible for finding your own incident. The guide is a resource, not a prescribed list.
 
 ---
 
@@ -221,14 +242,42 @@ Additionally, indicate:
 
 ---
 
-## Part 6 — Capability vs Intent
+## Part 6 — Capability vs Intent and Unintended Consequences
 
-- What was the system intended to do?
-- What was it capable of doing under actual conditions?
+This section asks you to distinguish between what was **intended** and what was **foreseeable but not prevented**.
 
-Then answer:
+### Step 1: Identify Stated Intent
+- What was the system designed and marketed to do?
+- What did the developers, operators, or institution claim was its purpose?
+- What outcomes were publicly promised or expected?
 
-> Is this truly an “unintended consequence”? Why or why not?
+### Step 2: Identify Actual Capability
+- What could the system actually do under real conditions?
+- What were the known limitations, failure modes, or edge cases?
+- What risks were identified but not addressed (in documentation, internal reviews, or research)?
+
+### Step 3: Analyze the Consequence
+
+Answer this question rigorously:
+
+> Is the harm that occurred truly **unintended**, or is it more accurately **foreseeable but not prevented**?
+
+Distinguish between:
+
+- **Genuinely unintended**: The consequence emerged through causal chains no one could reasonably predict (novel interaction, unprecedented context, unforeseen adoption)
+  - *Example*: A medication's unexpected side effect in a rare genetic subgroup not tested in trials
+
+- **Foreseeable but not prevented**: The risk was known, documented, or predictable from available information, but no mechanism prevented it
+  - *Example*: Facial recognition known to fail on darker skin tones (documented in academic literature) deployed without mitigation, leading to wrongful arrest
+
+- **Designed with plausible deniability**: The system was built in ways that predictably produce harm, but the design distributes responsibility so that no single actor appears responsible
+  - *Example*: Algorithm that amplifies divisive content, flagged in internal reviews, but kept because it increases engagement; when polarization emerges, blamed on "unintended user behavior"
+
+Your analysis should use EDOCA findings: where was capability known? Where was control held? Where did authority fail to constrain known risks?
+
+---
+
+**Note on incident scope:** This assignment analyzes incidents where harmful capabilities emerged through system mediation, even if not intentionally designed. If the primary harm comes from deliberate deception, fraud, or intentional misuse by malicious actors, that belongs to a different analytical framework. You should select incidents where system structure and mediation pathways are the primary focus—not cases where the core problem is bad faith or criminal intent.
 
 ---
 
