@@ -49,7 +49,7 @@ EDOCA is ordered intentionally to reflect how mediation is analyzed:
 - **Effort** — what resources are applied
 - **Distortion** — what happens to the signal as a result
 - **Observability** — who can see the result
-- **Control** — who can act on the result
+- **Control** — who can alter the destination state
 - **Authority** — who can permit or constrain action
 
 This ordering reflects a causal chain: resources produce transformations, transformations produce distortion, distortion produces outcomes that are variably visible, actionable, and governable.
@@ -60,7 +60,7 @@ At each critical transition, you must evaluate:
 - **Distortion (Fidelity)**
 - How effectively does this transition (V) preserve the intended signal from S to D? — how much the signal changes during the transition (noise, ambiguity, translation loss, compression, abstraction, representation mismatch)
 - **Observability** — who can see or understand what is happening, and to what degree
-- **Control** — who can initiate, modify, redirect, or influence the transition
+- **Control** — who can alter the destination state? (Shape what emerges from the transition)
 - **Authority** — who can assign, enable, restrict, or halt capability
 
 > EDOCA is applied at **specific transitions (Vectors, V)**, not to the system as a whole.
@@ -200,8 +200,9 @@ For each:
 - What is hidden, partial, delayed, or opaque?
 
 **Control**  
-- Who initiates or modifies the transition?  
-- Who is read-only?
+- Who can alter the destination state? (Shape what emerges from the transition)
+- Who can initiate, modify, redirect, or block the transition?
+- Who is read-only or powerless to change the outcome?
 
 **Authority**  
 - Who can enable, restrict, or halt this transition?  
@@ -215,6 +216,10 @@ For each:
 ### 3. Synthesis
 
 > How does this EDOCA configuration contribute to potential harm?
+
+**Critical question on Control**: In your analysis, assess whether the AI system (if present) alters the destination state only as designed, or whether it transcends its design by exploiting guardrails, misinterpreting objectives, or generating emergent behavior not explicitly programmed. If such transcendence occurs, **who remains responsible**? Does the vendor claim "unintended," while the algorithm cannot claim intent, and oversight bodies prove insufficient?
+
+**Reference**: For a worked example showing how to identify all actors (including the AI system), analyze observability asymmetries, and trace where control assumptions can break down, see [EDOCA Example: Algorithmic Hiring](../resources/09-SEID2364_example_EDOCA_transition_analysis.md).
 
 ---
 
