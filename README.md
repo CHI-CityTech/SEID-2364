@@ -15,6 +15,7 @@
 **Supporting materials:**
 - [Incident Selection Guide](./resources/09-SEID2364_Assignment09_incident_selection_guide.md) — framework for finding and evaluating real-world incidents
 - [EDOCA Framework Reference](./resources/09-SEID2364_EDOCA-Evaluating_mediation_pathways_supporting_document.md) — diagnostic dimensions for mediation assessment
+- [Worked Example: EDOCA Analysis](./resources/09-SEID2364_example_EDOCA_transition_analysis.md) — detailed example showing how to decompose a system into SVDs, identify critical inflection points, and apply EDOCA to selected transitions
 
 ---
 
