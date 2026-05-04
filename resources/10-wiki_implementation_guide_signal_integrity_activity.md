@@ -1,0 +1,347 @@
+# Wiki Implementation Guide
+
+## Signal Integrity: Mediation Pathway Activity
+
+This document defines the required Wiki structure, page types, and implementation instructions for deploying the asynchronous Signal Integrity activity.
+
+This guide is separate from the Rulebook. The Rulebook defines concepts. This document defines how the system is built and used.
+
+The activity should be understood as having two separate layers:
+
+- The game system: the page structure, naming conventions, linking rules, traversal logic, and contribution workflow
+- The game content: the specific scenario, nodes, actors, and signal transformations used in a given run
+
+For the first pilot, the game system remains stable while the game content is built around a loan or lending pathway.
+
+---
+
+# 1. System Overview
+
+The activity is implemented as a **graph of linked Wiki pages**.
+
+There are four primary page types:
+
+1. Wiki Home Page
+2. Exercise Home Page
+3. Node Pages (Spaces)
+4. Actor Pages (Reference Layer)
+5. Signal Cards (Student-generated pages)
+
+The Wiki Home Page is the landing page for the course wiki as a whole.
+
+The Exercise Home Page is the landing page for this specific activity. It is linked from the Wiki Home Page and can also be distributed directly to students.
+
+Students traverse the system by creating and linking Signal Cards as they move through Node Pages.
+
+---
+
+# 2. Required Wiki Structure
+
+Use a **flat, self-documenting page structure** rather than relying on folders as the primary navigation system.
+
+Create the following top-level pages:
+
+- Home
+- Unit-10-Signal-Tracking-Game
+- Node-Applicant-Concept
+- Node-Application-Form
+- Node-AI-Scoring
+- Node-Lending-Officer
+- Node-Decision
+- Node-Appeal (optional branch)
+- Actor-Applicant
+- Actor-Lending-Institution
+- Actor-AI-Model
+- Actor-Loan-Officer
+- Actor-Regulator
+- Actor-Credit-Bureau
+
+Student-created pages should also use self-documenting names, for example:
+
+- Signal-Ana-Garcia-01
+- Signal-Ana-Garcia-02
+- Signal-Ana-Garcia-03
+
+All pages in the activity should contain links to the pages immediately before and after them where applicable.
+
+---
+
+# 3. Exercise Home Page
+
+The Exercise Home Page should be named:
+
+- Unit-10-Signal-Tracking-Game
+
+This page is the home of the exercise, not the home of the wiki.
+
+It must include:
+
+- Activity introduction (you are the signal)
+- Use case description (loan system)
+- Signal definition
+- Signal purpose
+- Starting trust level
+- Instructions for copying the Signal Card template from the assignment or course resource
+- Link to first Node page
+
+This page is the primary entry point for the activity.
+
+It should be linked from the wiki Home page and may also be shared directly with students.
+
+---
+
+# 4. Signal Card Template
+
+Students must copy this template for each step.
+
+The template does not need to live as a Wiki page. It can be distributed in the Assignment page or in a repository resource linked from the activity page.
+
+Students copy the template, create a new Wiki page, name the Signal Card, and then continue through the activity.
+
+```markdown
+# Signal Card: [Student Name] — Step [#]
+
+Page name: Signal-[Student-Name]-[Step-Number]
+
+## Current SVD
+S:
+V:
+D:
+
+## Signal Representation
+
+## Signal Purpose
+
+## Raw / Curated / Hybrid
+
+## Integrity (Pattern Preservation)
+Preserved:
+Lost:
+Distorted:
+
+## EDOCA (Signal)
+Distortion:
+Observability:
+Control:
+Alignment:
+
+## EDOCA (Space)
+Distortion:
+Observability:
+Control:
+Alignment:
+
+## Actor Influence
+Which actors influenced this transformation?
+How did their goals affect the signal?
+
+## Trust Update
+Previous:
+Change:
+New:
+
+## Rationale
+
+## Previous Card
+[link]
+
+## Next Node
+[link]
+
+## Next Card
+[link if created]
+```
+
+---
+
+# 5. Node Pages (Spaces)
+
+Each Node represents a **Space**.
+
+Nodes must be pre-created for the use case.
+
+## Required Nodes (Loan Use Case)
+
+- Node-Applicant-Concept
+- Node-Application-Form
+- Node-AI-Scoring
+- Node-Lending-Officer
+- Node-Decision
+- Node-Appeal (optional branch)
+
+---
+
+## Node Page Template
+
+```markdown
+# Node: [Name]
+
+## Space Description
+
+## Accepted Signal Forms
+
+## Transformation (Vector)
+
+## Constraints
+
+## Access
+
+## Authority
+
+## Observability
+
+## Relevant Actors
+- [Actor Name] → link
+- [Actor Name] → link
+
+## External Influences
+- regulation
+- market competition
+- external data sources
+
+## Distortion Risks
+
+## Possible Outputs
+
+## Next Nodes
+- [Node A]
+- [Node B]
+
+## Observed Patterns (Student Contributions)
+```
+
+Students may only append to the final section. This is a course rule rather than a technical restriction enforced by GitHub Wiki.
+
+---
+
+# 6. Actor Pages (Reference Layer)
+
+Actor Pages describe agents that influence transformations.
+
+## Required Actor Pages
+
+- Actor-Applicant
+- Actor-Lending-Institution
+- Actor-AI-Model
+- Actor-Loan-Officer
+- Actor-Regulator
+- Actor-Credit-Bureau
+
+---
+
+## Actor Page Template
+
+```markdown
+# Actor: [Name]
+
+## Role
+
+## Goals
+
+## Authority
+
+## Access
+
+## Observability
+
+## Constraints
+
+## Typical Effects on Signals
+```
+
+Actor Pages are NOT traversal nodes.
+
+---
+
+# 7. Student Workflow
+
+Each student must:
+
+1. Start at the Exercise Home Page
+2. Open the template from the assignment or linked course resource
+3. Create Step 01 page using the required naming convention
+4. Enter first Node
+5. Apply transformation
+6. Create next Signal Card
+7. Link to previous card and next node
+8. Continue for at least 4 steps
+9. Make at least one branching decision
+
+---
+
+# 8. Required Deliverables
+
+Each student must submit:
+
+- A chain of at least 4 linked Signal Cards
+- Completed EDOCA analysis at each step
+- Final evaluation answering:
+
+> How much can D trust S based on V?
+
+---
+
+# 9. System Behavior
+
+This system is:
+
+- asynchronous
+- student-driven
+- cumulative
+- evolving
+
+Students do not modify core Node definitions. Students contribute observations to Node pages.
+
+Because the system depends on linked pages, page naming and backlinking are part of the assignment requirements, not optional formatting details.
+
+---
+
+# 10. Pilot Content Definition (Loan System)
+
+The signal is the **loan application data** representing an applicant.
+
+The system transforms this signal through:
+
+- data structuring
+- algorithmic scoring
+- human interpretation
+- institutional decision-making
+
+The purpose of the signal is:
+
+> to preserve sufficient structural information about the applicant to support a fair and accurate lending decision.
+
+This loan pathway is the first pilot content set for the activity. It is not the only possible content model for the game system.
+
+---
+
+# 11. Key Design Principles
+
+- Nodes are Spaces
+- Actors operate within Spaces
+- Signals carry state
+- Transformations are mappings
+- Integrity is pattern preservation
+- Trust is probabilistic
+- The system evolves through use
+- System design and scenario content should be documented separately when the activity expands beyond the first pilot
+
+---
+
+# 12. Implementation Notes (VSC + GitHub Wiki)
+
+- Use Markdown for all pages
+- Use self-documenting flat page names rather than folder-dependent navigation
+- Enforce naming conventions for Signal Cards
+- Require backward links (provenance chain)
+- Require forward links when known
+- Use internal Wiki links for navigation
+- Link to the exercise from Home and, when useful, distribute the direct exercise URL
+- Store the Signal Card template in the assignment materials or linked repository resources
+
+Do NOT automate in this version.
+
+---
+
+# End of Document
+
