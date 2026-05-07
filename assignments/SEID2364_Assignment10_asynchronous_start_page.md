@@ -78,6 +78,9 @@ Complete the materials in this order before posting your discussion response.
 4. **Add one source to Zotero related to time-based systems or temporal mediation.**
    - Zotero Library: [insert link]
 
+5. **Open Week 10 Discussion Board 1 and review the posting prompt before drafting your response.**
+   - Discussion Board 1: [Week 10 Discussion 1](https://github.com/CHI-CityTech/SEID-2364/discussions/2#discussion-10017960)
+
 ---
 
 ## Required Activities
@@ -113,7 +116,7 @@ For each major component or step in the system, consider:
 
 You must also refer to the Zotero source you added.
 
-Discussion thread: [insert GitHub Discussion link]
+Discussion thread: [Week 10 Discussion 1](https://github.com/CHI-CityTech/SEID-2364/discussions/2#discussion-10017960)
 
 This discussion focuses on analysis: how time, space, signal integrity, and EDOCA appear in a mediation pathway.
 
@@ -121,14 +124,18 @@ This discussion focuses on analysis: how time, space, signal integrity, and EDOC
 
 ### Activity 3 — Zotero Research Contribution
 
-Add one source to Zotero about a time-based system or temporal mediation problem.
+Add one source to Zotero that is **directly relevant to the system you are analyzing as your case study**. The source should help you clarify, answer, or deepen a specific question you encountered while working through the activity — not just provide general background on time.
 
-Possible topics include:
+Your source should connect to your case study system through one or more of the temporal concepts introduced this week (latency, signal integrity, model drift, event-based time, expiration, etc.). In your Zotero annotation, explain concretely how the source addresses something you needed to understand in order to analyze your system.
+
+Possible topic areas (choose what fits your system):
 
 - real-time systems
 - latency
 - asynchronous communication
 - event-driven systems
+- agile development (sprint cycles, iterative delivery)
+- just-in-time (JIT) systems and delivery
 - time-based games
 - turn-based systems
 - version control
@@ -149,7 +156,7 @@ Your Zotero entry should include:
 - year
 - link or DOI if available
 - at least two tags
-- a short note explaining why the source is relevant
+- a note that explains **how this source is relevant to your specific case study system** — identify what question it helps you answer or what aspect of your analysis it clarifies
 
 Suggested tags:
 
@@ -160,6 +167,9 @@ Suggested tags:
 - `signal-integrity`
 - `event-based-time`
 - `real-time-systems`
+- `agile-sprints`
+- `just-in-time`
+- `iterative-delivery`
 - `model-drift`
 - `expiration`
 - `version-control`
@@ -234,139 +244,25 @@ Each step of the play-test should generate a short discussion contribution expla
 
 ---
 
-# GitHub Discussion Board 1 Prompt: Temporal Mediation Analysis
+## GitHub Discussion Board 1: Brief Assignment Precis
 
-Copy the following structure into your GitHub Discussion post.
+This is a concise summary of the Discussion Board 1 requirement in Activity 2.
 
-## 1. System or Mediation Pathway Under Review
+Use the full prompt in the live discussion thread:
 
-Briefly describe the system, example, or pathway you are analyzing.
+[Week 10 Discussion 1](https://github.com/CHI-CityTech/SEID-2364/discussions/2#discussion-10017960)
 
-This should be a system or mediation pathway you have already been working with in class. The purpose is to revisit an existing system and add temporal analysis, not to start over with an unrelated example.
+For this assignment, your post should briefly do the following:
 
-If helpful, your system may connect to:
+- revisit a system or mediation pathway you already analyzed
+- explain how temporal distance changes your earlier spatial reading
+- identify where timing affects signal integrity, risk, trust, and failure points
+- reference your Week 10 Zotero source
+- reply to at least one classmate by engaging their Zotero source
 
-- a prior BBS mediation pathway
-- a case study you have already analyzed
-- the early game-development activity
-- this week’s asynchronous class environment itself
+End your post by answering:
 
----
-
-## 2. Source, Vector, Destination
-
-Identify the basic mediation pathway.
-
-- **Source:**
-- **Vector:**
-- **Destination:**
-
----
-
-## 3. Signal
-
-What information, data, message, state, or representation is moving through the pathway?
-
-Describe the signal as concretely as possible.
-
----
-
-## 4. Spatial Distance
-
-Identify the spatial relationships in the pathway.
-
-- What is personal?
-- What is local?
-- What is remote?
-- What is inaccessible?
-
-Also consider:
-
-- Who has access to the space?
-- Who can observe the signal?
-- Who can control or modify the signal?
-- Who has authority over the space or pathway?
-
----
-
-## 5. Temporal Distance
-
-Identify the temporal conditions present in the pathway. Comment on how time is used across the different components or steps of the system you are analyzing.
-
-- **Real-Time:**
-- **Latent:**
-- **Indeterminate / Stored:**
-- **Inaccessible / Expired:**
-- **Event-Based Time:**
-- **Clock Time:**
-
-You do not need to use every category, but you should explain each category that applies. If different components use time differently, describe those differences.
-
----
-
-## 6. Signal Integrity, Risk, Trust, and Failure Points
-
-How does time preserve, distort, delay, store, reactivate, or invalidate the signal?
-
-After adding temporal analysis, explain whether this changes your perception of the system’s risk, trustworthiness, or possible failure points.
-
-Consider:
-
-- Does the signal remain structurally intact?
-- Does the signal remain temporally useful?
-- Does storage change its meaning or trustworthiness?
-- Could the signal expire?
-- Could the signal be reactivated later in a different context?
-- Does timing reveal a new risk or possible failure point that was not visible in your earlier spatial analysis?
-
----
-
-## 7. EDOCA Analysis
-
-Choose at least **two** EDOCA dimensions and explain how spatial or temporal distance affects them.
-
-- **Effort / Energy:**
-- **Distortion:**
-- **Observability:**
-- **Control:**
-- **Authority:**
-
-Remember that Observability and Control are graded. Different agents may have different degrees of access, observability, control, or authority within the same space.
-
----
-
-## 8. Zotero Source Connection
-
-Name the Zotero source you added.
-
-Then explain in 2–3 sentences how this source helped you understand your pathway or time-based system.
-
----
-
-## 9. Closing Claim
-
-Answer in 1–2 sentences:
-
-> When does time become a source of ethical risk in this pathway?
-
----
-
-## Reply Requirement
-
-Reply to at least one classmate in Discussion Board 1.
-
-In your reply, refer to your classmate’s Zotero source and discuss how that source connects to your own model, pathway, or system. The purpose is to build connections across sources rather than keep each Zotero entry isolated.
-
-Your reply should extend, question, or refine their analysis. Do not simply agree.
-
-You may respond to one of these questions:
-
-- Did you notice a temporal category your classmate did not identify?
-- Did their pathway include storage or indeterminate time?
-- Did timing affect trust differently for different agents?
-- Did their Zotero source suggest another way to understand the system?
-- Where might the signal expire or become inaccessible?
-- Did they identify who has access, control, observability, or authority?
+When does time become a source of ethical risk in this system?
 
 ---
 
