@@ -94,13 +94,15 @@ Although we are beginning in GitHub Wiki, this activity is also a prototype for 
 
 Watch **Video 1 — Distance in Space Refresher**.
 
+https://vimeo.com/1190062159  
+
 This video is a review of last week’s spatial distance categories. Use it to re-establish the distinction between personal, local, remote, and inaccessible spaces before moving into temporal distance.
 
 ---
 
 ### Activity 2 — Read, Watch, and Post: Temporal Mediation Analysis
 
-Read the temporal distance paper and then watch **Video 2 — Distance in Time / Temporal Mediation**.
+Read the [temporal distance paper](https://github.com/CHI-CityTech/SEID-2364/blob/main/resources/week-10/10_temporal_distance_and_time_in_bbs.md) and then watch [**Video 2 — Distance in Time / Temporal Mediation**](https://vimeo.com/1189968893).  
 
 After completing both, post your individual response in the Week 10 Temporal Mediation GitHub Discussion thread.
 
