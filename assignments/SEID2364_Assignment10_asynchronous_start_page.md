@@ -86,9 +86,16 @@ Complete the materials in this order before posting your discussion response.
 
 ## Required Activities
 
-This module has five connected activities. The group game-development activity is not an optional extension; it is part of this week’s asynchronous assignment. The mediated game space for this first version is the GitHub Wiki. The Wiki contains the start card, emerging rule materials, signal records, comments, and revision history. In effect, the class is collectively creating a local mediated space in which the rules of the game can be proposed, tested, revised, and discussed.
+This module is organized into **two parts**.
 
-Although we are beginning in GitHub Wiki, this activity is also a prototype for other possible mediated environments. A similar game could later be implemented in GitHub Discussions, a shared Google Doc, Notion, Obsidian, Twine, a lightweight web app, a collaborative whiteboard, or an interactive simulation environment. For this week, however, the Wiki is the active local space.
+Part 1 is your individual temporal mediation analysis and research sequence.
+Part 2 is the collaborative game-development and play-test sequence.
+
+Both parts are required.
+
+## Part 1 — Individual Temporal Analysis and Research
+
+Complete these activities first. They prepare the conceptual and research foundation you will use in Part 2.
 
 ### Activity 1 — Spatial Distance Review
 
@@ -181,7 +188,21 @@ Suggested tags:
 
 ---
 
-### Activity 4 — GitHub Discussion Board 2: Game Development and Rule Testing
+## Part 2 — Collaborative Game Development and Play-Test
+
+After Part 1 is complete, begin the collaborative game-development sequence.
+
+The group game-development activity is not an optional extension; it is part of this week’s asynchronous assignment. The mediated game space for this first version is the GitHub Wiki. The Wiki contains the start card, emerging rule materials, signal records, comments, and revision history. In effect, the class is collectively creating a local mediated space in which the rules of the game can be proposed, tested, revised, and discussed.
+
+Part 2 should be treated as game development in the full design sense: we are creating a new conceptual space with explicit mechanics, constraints, and governance rules. The class is the design team, and the rules are not pre-given. We will write them, test them, critique them, and revise them together.
+
+This is not only about making a playable system. It is also an ethical analysis method. As you propose and test rules, use ethical evaluation to determine where risk, harm, trust, observability, control, and authority are being produced, redistributed, or obscured by the structure of the game.
+
+Although we are beginning in GitHub Wiki, this activity is also a prototype for other possible mediated environments. A similar game could later be implemented in GitHub Discussions, a shared Google Doc, Notion, Obsidian, Twine, a lightweight web app, a collaborative whiteboard, or an interactive simulation environment. For this week, however, the Wiki is the active local space.
+
+---
+
+### Part 2 Activity 1 — GitHub Discussion Board 2: Game Development and Rule Testing
 
 Post in the Week 10 Game Development GitHub Discussion thread.
 
@@ -198,12 +219,15 @@ This discussion should include:
 - problems or ambiguities discovered during development
 - suggestions for revision
 - comments about how the Wiki environment itself shapes timing, access, observability, control, or authority
+- explicit ethical evaluation of the proposed rule (for example: what new risks, harms, or trust shifts does the rule create?)
+
+Treat this discussion board as a class rule-writing space. The goal is to build a shared, testable rule set for the game while making your ethical reasoning visible.
 
 Discussion thread: [insert GitHub Discussion link]
 
 ---
 
-### Activity 5 — Wiki-Based Game Development and Play-Test
+### Part 2 Activity 2 — Wiki-Based Game Development and Play-Test
 
 After completing your individual discussion post and Zotero source, begin the Wiki-based game-development starter activity.
 
@@ -247,7 +271,7 @@ Each step of the play-test should generate a short discussion contribution expla
 
 ---
 
-## GitHub Discussion Board 1: Brief Assignment Precis
+## Part 1 Deliverable — GitHub Discussion Board 1: Brief Assignment Precis
 
 This is a concise summary of the Discussion Board 1 requirement in Activity 2.
 
@@ -269,11 +293,13 @@ When does time become a source of ethical risk in this system?
 
 ---
 
-# GitHub Discussion Board 2 Prompt: Game Development and Rule Testing
+# Part 2 Deliverable — GitHub Discussion Board 2 Prompt: Game Development and Rule Testing
 
 Use this discussion board to help build the game as an asynchronous group activity.
 
 The current game space is the GitHub Wiki. Use the Wiki start card, your assigned signal card, and the living game rules document as the basis for your first play-test.
+
+In this part of the assignment, we are collectively designing a conceptual mediation space through game rules. Your contribution should make clear how your proposed mechanic helps the class understand mediation complexity and where ethical evaluation is needed.
 
 Your group should post at least one contribution that includes:
 
@@ -315,17 +341,31 @@ Did it create confusion, delay, distortion, unexpected authority, hidden informa
 
 Should the rule remain, be modified, be removed, or be tested further?
 
+## 7. Ethical Evaluation
+
+What does your rule reveal about ethical risk in this mediated system?
+
+- What potential harms become more likely?
+- What trust relationships are strengthened or weakened?
+- Who benefits, who is burdened, and who may be excluded?
+- What additional safeguard or design adjustment would reduce risk?
+
 ---
 
 # Completion Checklist
 
 Before the end of the module, make sure you have completed:
 
+Part 1:
+
 - [ ] Watched the assigned video(s)
 - [ ] Read the temporal distance paper
 - [ ] Posted your individual response in Discussion Board 1
 - [ ] Replied to at least one classmate in Discussion Board 1, including reference to their Zotero source
 - [ ] Added one Zotero source with tags and annotation
+
+Part 2:
+
 - [ ] Contributed to Discussion Board 2 on game development and rule testing
 - [ ] Contributed to your group’s temporal mechanics starter note
 
