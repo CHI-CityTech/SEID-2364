@@ -76,7 +76,8 @@ Complete the materials in this order before posting your discussion response.
    - Watch this after reading the paper so that the video reinforces the temporal categories and examples.
 
 4. **Add one source to Zotero related to time-based systems or temporal mediation.**
-   - Zotero Library: [insert link]
+   - Zotero Library: https://www.zotero.org/groups/6444008/seid__ethics/library
+   - However, you should be doing this with your Zotero client and using Zotero connectors from your browser.  
 
 5. **Open Week 10 Discussion Board 1 and review the posting prompt before drafting your response.**
    - Discussion Board 1: [Week 10 Discussion 1](https://github.com/CHI-CityTech/SEID-2364/discussions/2#discussion-10017960)
