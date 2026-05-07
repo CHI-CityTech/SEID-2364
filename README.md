@@ -10,17 +10,19 @@
 
 ## 🔗 **Current Assignment**
 
-[Assignment 8: Bias, Decision-Making, and Harm in AI-Mediated Systems](./assignments/SEID2364_assignment08_ai_mediation_risk_fluidity_and_regulatory_limits.md) — select a new AI system, construct three deployment scenarios, and map where bias enters and travels through a mediation pathway, how it shapes decisions, and what harms it produces.
+[Assignment 9: Mediation Pathways, Capability, and Responsibility](./assignments/SEID2364_Assignment09_mediation_pathways_capability_and_responsibility.md) — reconstruct how harmful outcomes emerge through mediation pathways in a real-world incident; apply EDOCA to evaluate capability under constraint; analyze whether harm was unintended, foreseeable but not prevented, or designed with plausible deniability; map where responsibility becomes distributed or unclear.
 
 **Supporting materials:**
-- [System Selection Set](./resources/08-SEID2364_usecase_system_set.md) — curated systems to choose from
-
+- [Incident Selection Guide](./resources/09-SEID2364_Assignment09_incident_selection_guide.md) — framework for finding and evaluating real-world incidents
+- [EDOCA Framework Reference](./resources/09-SEID2364_EDOCA-Evaluating_mediation_pathways_supporting_document.md) — diagnostic dimensions for mediation assessment
+- [Worked Example: EDOCA Analysis](./resources/09-SEID2364_example_EDOCA_transition_analysis.md) — detailed example showing how to decompose a system into SVDs, identify critical inflection points, and apply EDOCA to selected transitions
 
 ---
 
 <details>
 <summary>Previous Assignments</summary>
 
+- [Assignment 8: Bias, Decision-Making, and Harm in AI-Mediated Systems](./assignments/SEID2364_Assignment08_ai_mediation_risk_fluidity_and_regulatory_limits.md) — select a new AI system, construct three deployment scenarios, and map where bias enters and travels through a mediation pathway, how it shapes decisions, and what harms it produces.
 - [Assignment 7: EU AI Act System Evaluation](./assignments/SEID2364_Assignment07_eu_ai_act_system_evaluation.md) — classify a system within EU AI Act risk categories and analyze how risk is produced and distributed through mediation pathways.
 - [Assignment 6: Mediation Pathways Across Physical and Virtual Space](./assignments/SEID2364_Assignment06_mediation_pathways.md) — map how agency, information, authority, and accountability travel through mediated systems.
 - [Assignment 5: System Structuring and Ethical Analysis](./assignments/SEID2364_Assignment05_system_structuring.md)

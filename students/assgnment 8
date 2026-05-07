@@ -1,0 +1,70 @@
+1. System Definition
+
+The system is an AI hiring screening system that ranks job applicants.
+
+It performs a prediction and ranking function using machine learning.
+
+Inputs: resumes, application data
+Outputs: candidate scores or ranked lists
+
+2. Bias and Fairness Synthesis
+
+Bias refers to patterns that unfairly favor or disadvantage certain groups, often coming from historical data or implicit human bias. In AI systems, this bias can be learned and repeated.
+
+Fairness means treating similar individuals equally, but there are different definitions of fairness that often conflict. For example, improving fairness for one group may reduce it for another.
+
+A key tension is that even if a system is designed to be fair, it can still reflect implicit bias from its training data.
+
+From search and ranking ethics, ranking itself creates risk. In hiring systems, lower-ranked candidates may not be seen at all, which can amplify small biases into large outcomes.
+
+3. Deployment Scenarios
+Corporate hiring: large company, high reliance on system, high impact
+University jobs: part-time student jobs, more human review, medium impact
+Government hiring: public sector roles, more automated, high societal impact
+
+These differ in user group, decision authority, and consequences.
+
+4. Mediation Pathway & Bias
+
+Pathway: Input → Model → Output → Decision → Outcome
+
+Input: biased historical data
+Model: proxy bias (e.g., school, name)
+Output: ranking amplifies bias
+Decision: over-reliance or human bias
+Outcome: unfair hiring results
+
+Comparison:
+
+Bias in data and ranking exists in all cases
+Government use adds structural inequality
+University use adds human bias interaction
+5. Decision Pathway
+
+The system produces ranked candidates.
+
+Corporate: HR relies heavily → automation bias
+University: human review → mixed responsibility
+Government: more automated → low accountability
+
+If outputs are biased, candidates may be unfairly excluded.
+
+6. Harm Analysis
+
+Applicants: unfair rejection, lost opportunities
+Organizations: bad hiring decisions, reputation risk
+Society: increased inequality
+
+Indirect harm: long-term exclusion of certain groups
+
+Harms are not evenly distributed, affecting minorities more.
+
+7. Critical Reflection
+
+Responsibility is shared.
+
+The system introduces bias through data and design.
+Organizations increase or reduce harm depending on how they use it.
+Society contributes through existing inequalities reflected in data.
+
+Bias cannot be fully removed, but how the system is deployed determines how harmful it becomes.
