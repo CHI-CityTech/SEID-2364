@@ -267,7 +267,7 @@ Wiki start card: [insert link]
 
 Game rules document: [insert link]
 
-Each step of the play-test should generate a short discussion contribution explaining what was discovered. Comments and reactions should occur within the expected asynchronous time window set for the week (for example, daily check-ins or instructor-specified response windows). These time windows are part of the activity: they allow us to examine how asynchronous timing affects collaboration, interpretation, and rule development.
+Each step of the play-test should generate a short discussion contribution explaining what was discovered. The default cadence for this assignment is one turn per day per student unless the instructor specifies a different response window. These time windows are part of the activity: they allow us to examine how asynchronous timing affects collaboration, interpretation, and rule development.
 
 ---
 

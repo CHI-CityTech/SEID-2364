@@ -1,5 +1,9 @@
 # Signal Record Template
 
+> Canonical blank template for signal records across Week 10 and future game runs.
+> 
+> For this specific Week 10 activity, most students should start from a prepopulated starter card in the wiki and then rename it.
+
 > How to fill out this template: [Signal Record Instructions](10-04-signal_record_instructions.md)
 
 ---
@@ -19,14 +23,14 @@ Signal ID:
 Status: Active
 
 ## Current State Snapshot
-Current Node:
+Current Space:
 Current Representation:
 Current Trust Level:
 Total Transitions So Far:
 Cumulative Distortion Level:
 
 Starting defaults (edit if your instructor specifies a different start):
-- Current Node: Node-Applicant-Concept
+- Current Space: Space-Applicant-Concept
 - Current Trust Level: 70
 - Total Transitions So Far: 0
 
@@ -54,8 +58,8 @@ How much can D trust S based on V?
 Parent Transition ID (or START):
 Branch ID:
 Branch Status (active / merged / closed):
-From Node:
-To Node:
+From Space:
+To Space:
 Vector / Edge Transmission Description:
 What is being transmitted across this edge:
 How this vector transforms the signal:
@@ -103,6 +107,9 @@ Authority:
 #### Arrival Space Critical Components
 Space Type (conceptual / physical / virtual / institutional / blended):
 Space Description:
+Current Space State (what conditions define this space right now):
+Possible Decisions in This Space:
+Decision Authority Map (who can make which decision):
 Constraints:
 Access:
 Authority:
@@ -121,11 +128,11 @@ New:
 
 #### Why This Transition Matters
 
-#### Next Node
+#### Next Space
 [link]
 
 #### Required Links and Research Evidence
-Node Page Link:
+Space Page Link:
 Relevant Agent Page Link(s):
 Course Material Link(s):
 Authoritative Source Link(s):
