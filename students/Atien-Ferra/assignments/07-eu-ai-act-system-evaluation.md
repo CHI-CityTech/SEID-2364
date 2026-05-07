@@ -18,8 +18,7 @@ Applicant materials -> job portal, ATS parsing, feature extraction, scoring mode
 
 ### Detailed Pathway Map
 
-```mermaid
-flowchart TD
+```
     A[Applicant submits resume, forms, assessments, or interview answers] --> B[Job portal and ATS store submission]
     B --> C[Parser converts materials into structured fields and features]
     C --> D[Scoring model ranks or flags applicant]
