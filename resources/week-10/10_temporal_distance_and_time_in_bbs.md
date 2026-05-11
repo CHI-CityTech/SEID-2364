@@ -2,6 +2,8 @@
 
 ## A Discussion of Temporal Mediation, Trust, and Signal Integrity
 
+Dr David B. Smith  
+2026  
 ## Abstract
 
 Temporal distance within the Balanced Blended Space (BBS) framework suggests that mediation occurs not only across physical, virtual, and conceptual spaces, but also across time. While traditional communication and information-theoretic models often emphasize the reliable transmission of signals through communication pathways, BBS extends mediation analysis by treating temporal conditions as qualitative and context-dependent aspects of signal integrity. Within this framework, signals may persist, delay, expire, become inaccessible, or undergo reinterpretation across temporal distance.
@@ -62,21 +64,21 @@ Latent mediation refers to delayed but predictable interaction. The signal arriv
 
 Importantly, latency in BBS is qualitative rather than strictly numerical. A delay of microseconds or a delay of years may both represent latent mediation if the timing structure remains predictable and operationally appropriate.
 
-Examples include email, queued transactions, scheduled processing systems, delayed notifications, and archival retrieval systems where retrieval expectations are understood.
+Examples include cell phone conversation, queued transactions, scheduled processing systems, delayed notifications, and archival retrieval systems where retrieval expectations are understood.
 
 ## Indeterminate Time
 
-Indeterminate mediation refers to delayed and unpredictable interaction. Signals may arrive eventually, but timing cannot be reliably anticipated.
+Indeterminate mediation refers to delayed and unpredictable interaction. Signals may arrive eventually, but timing or access cannot be reliably anticipated.  All storage that is arbitrarily accessible is an example of intdeterminate time: I wrote a paper and stored in  a repo, but there is no time constraint on this access.  Note that expiring materials (such as "we will hold this documetn for 30 days before deleting") may have both indeterminate and latent components.  
 
 Examples include historical retrieval, asynchronous Wiki traversal, future reinterpretation of archived material, or delayed institutional review systems.
 
-In indeterminate mediation, uncertainty itself becomes part of the mediation condition.
+In indeterminate mediation, uncertainty itself becomes part of the mediation condition: when will it be accessed?
 
 ## Inaccessible Time
 
 Inaccessible mediation occurs when interaction becomes unavailable or operationally impossible within the relevant temporal frame.
 
-Examples include deleted records, inaccessible archives, expired opportunities, signals arriving after deadlines, or information retrieved after usefulness has collapsed.
+Examples include deleted records, inaccessible archives, expired opportunities, signals arriving after deadlines, or information retrieved after usefulness has collapsed.  Materials that occured in the past but were not recorded, as well as future events are also inaccessible.  
 
 A signal may remain structurally intact while becoming temporally inaccessible.
 
@@ -86,7 +88,7 @@ A signal may remain structurally intact while becoming temporally inaccessible.
 
 Temporal mediation may be represented differently across different systems.
 
-BBS does not reject chronological or clock-based time. Instead, the framework recognizes that many mediation systems also employ operational or representational forms of time based on observable state transition.
+BBS recognizes that chronological or clock-based time are also important time elements, even though theu are quantitative. Instead, the framework recognizes that many mediation systems also employ operational or representational forms of time based on observable state transition.
 
 Clock time may still remain critically important. Computational energy consumption, synchronization cost, latency analysis, scheduling, and real-time systems frequently depend on measurable chronological duration. In physical systems this may be represented in seconds or other standard units, while virtual systems may instead measure timing through processor cycles, refresh intervals, or computational ticks.
 

@@ -10,18 +10,24 @@
 
 ## 🔗 **Current Assignment**
 
-[Assignment 9: Mediation Pathways, Capability, and Responsibility](./assignments/SEID2364_Assignment09_mediation_pathways_capability_and_responsibility.md) — reconstruct how harmful outcomes emerge through mediation pathways in a real-world incident; apply EDOCA to evaluate capability under constraint; analyze whether harm was unintended, foreseeable but not prevented, or designed with plausible deniability; map where responsibility becomes distributed or unclear.
+[Assignment 10: System Synthesis and Communicating Ethical Analysis](./assignments/SEID2364_Assignment10_system_synthesis_and_communication.md) — synthesize your A7–A9 system analyses into one integrated understanding; develop your paper research question, outline, and opening; plan your oral presentation structure and visuals.
+
+This assignment consists of three sequential parts:
+
+- **Part 1** — Integrative System Analysis: combine regulatory (A7), bias (A8), and responsibility (A9) perspectives into one coherent system description with a core ethical tension
+- **Part 2** — Paper Framework: develop your research question, paper outline, opening paragraphs, and annotated source list
+- **Part 3** — Presentation Planning: define audience and scope, outline structure with time allocation, plan visuals
 
 **Supporting materials:**
-- [Incident Selection Guide](./resources/09-SEID2364_Assignment09_incident_selection_guide.md) — framework for finding and evaluating real-world incidents
-- [EDOCA Framework Reference](./resources/09-SEID2364_EDOCA-Evaluating_mediation_pathways_supporting_document.md) — diagnostic dimensions for mediation assessment
-- [Worked Example: EDOCA Analysis](./resources/09-SEID2364_example_EDOCA_transition_analysis.md) — detailed example showing how to decompose a system into SVDs, identify critical inflection points, and apply EDOCA to selected transitions
 
----
+- [Assignment 10 — Full Prompt](./assignments/SEID2364_Assignment10_system_synthesis_and_communication.md)
+- [Week 10 Resource Index](./resources/week-10/README.md)
+- [Temporal Distance and Time in BBS](./resources/week-10/10_00_temporal_distance_and_time_in_bbs.md) — still relevant for temporal analysis questions
 
 <details>
-<summary>Previous Assignments</summary>
+<summary>Past Assignments</summary>
 
+- [Assignment 9: Mediation Pathways, Capability, and Responsibility](./assignments/SEID2364_Assignment09_mediation_pathways_capability_and_responsibility.md) — reconstruct how harmful outcomes emerge through mediation pathways in a real-world incident; apply EDOCA to evaluate capability under constraint; analyze whether harm was unintended, foreseeable but not prevented, or designed with plausible deniability; map where responsibility becomes distributed or unclear.
 - [Assignment 8: Bias, Decision-Making, and Harm in AI-Mediated Systems](./assignments/SEID2364_Assignment08_ai_mediation_risk_fluidity_and_regulatory_limits.md) — select a new AI system, construct three deployment scenarios, and map where bias enters and travels through a mediation pathway, how it shapes decisions, and what harms it produces.
 - [Assignment 7: EU AI Act System Evaluation](./assignments/SEID2364_Assignment07_eu_ai_act_system_evaluation.md) — classify a system within EU AI Act risk categories and analyze how risk is produced and distributed through mediation pathways.
 - [Assignment 6: Mediation Pathways Across Physical and Virtual Space](./assignments/SEID2364_Assignment06_mediation_pathways.md) — map how agency, information, authority, and accountability travel through mediated systems.
@@ -104,7 +110,9 @@ AI is integrated as both a **tool and a collaborator**. Students are encouraged 
 ## 🗂️ **Repository Notes**
 
 - `case-studies/` contains SEID 2364 case-study materials.
-- `assignments/` contains all course assignments (4 main assignments + variants).
+- `assignments/` contains currently assigned student-facing assignments.
+- `assignments/archive/` contains obsolete or superseded assignment versions kept for record.
+- `assignments/upcoming/` contains draft or not-yet-assigned materials and is not part of the active student assignment sequence.
 - `resources/` contains BBS frameworks, Moral Machine dataset, and educational glossaries.
 - For Moral Machine dataset work, use the DOI source as canonical and, if a newer official Dryad release appears, use the latest version and record the version date in your methods appendix.
 - Curriculum design and planning materials are maintained in the [AI-Curriculum repository](https://github.com/CHI-CityTech/AI-Curriculum).
@@ -115,5 +123,3 @@ AI is integrated as both a **tool and a collaborator**. Students are encouraged 
 ## 🧠 **Keywords**
 
 `#Ethics` `#AI` `#DataScience` `#BalancedBlendedSpace` `#CulturalHeritage` `#EUAIAct` `#CollaborativeAI` `#BBSFramework`
-
-
