@@ -24,20 +24,6 @@ This assignment consists of three sequential parts:
 - [Week 10 Resource Index](./resources/week-10/README.md)
 - [Temporal Distance and Time in BBS](./resources/week-10/10_00_temporal_distance_and_time_in_bbs.md) — still relevant for temporal analysis questions
 
----
-
-<details>
-<summary>Upcoming Assignments</summary>
-
-- [Assignment 11: Emerging Technologies and Ethical Uncertainty](./assignments/SEID2364_Assignment11_emerging_technologies_and_uncertainty.md) — apply analogical reasoning and the precautionary principle to a technology at the edge of current regulation; speculative BBS/EDOCA analysis; regulatory gap identification
-- [Assignment 12: Personal Ethical Framework](./assignments/SEID2364_Assignment12_personal_ethical_framework.md) — articulate your own ethical principles, trace your development across the course, apply your framework to a professional scenario, identify blind spots and revision conditions (contributes to 30% Personal Ethical Statement)
-- [Assignment 13: Ethics in Novel Contexts](./assignments/SEID2364_Assignment13_novel_context_application.md) — stress-test your framework in a new domain, a cross-cultural case, and a genuinely ambiguous situation
-- [Assignment 14: Capstone — Final Paper and Oral Presentation](./assignments/SEID2364_Assignment14_capstone_paper_and_presentation.md) — 3,000–4,500 word paper + 10-minute oral presentation + final reflection (major assessment)
-
-</details>
-
----
-
 <details>
 <summary>Past Assignments</summary>
 
@@ -124,7 +110,9 @@ AI is integrated as both a **tool and a collaborator**. Students are encouraged 
 ## 🗂️ **Repository Notes**
 
 - `case-studies/` contains SEID 2364 case-study materials.
-- `assignments/` contains all course assignments (4 main assignments + variants).
+- `assignments/` contains currently assigned student-facing assignments.
+- `assignments/archive/` contains obsolete or superseded assignment versions kept for record.
+- `assignments/upcoming/` contains draft or not-yet-assigned materials and is not part of the active student assignment sequence.
 - `resources/` contains BBS frameworks, Moral Machine dataset, and educational glossaries.
 - For Moral Machine dataset work, use the DOI source as canonical and, if a newer official Dryad release appears, use the latest version and record the version date in your methods appendix.
 - Curriculum design and planning materials are maintained in the [AI-Curriculum repository](https://github.com/CHI-CityTech/AI-Curriculum).
