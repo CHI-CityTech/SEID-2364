@@ -5,9 +5,6 @@
 This report analyzes the wrongful arrest of Robert Williams by the Detroit Police Department in January 2020. Williams was arrested after police relied on an incorrect facial recognition lead connected to a 2018 shoplifting investigation at a Shinola store in Detroit. The facial recognition search compared a poor-quality surveillance image to a photo database and returned Williams as a possible match. Police then used that lead in a photo lineup and later sought an arrest warrant. Williams was detained for about thirty hours before the case unraveled.
 
 This incident fits Assignment 9 because it involves multiple agents, including a person wrongly identified, police investigators, a facial recognition system, a photo database, a witness or loss-prevention contractor, a court warrant process, and institutional policy. It also has traceable mediation pathways. Harm did not come from one isolated mistake. It emerged as information moved through several Source-Vector-Destination transitions, with distortion, limited observability, weak control, and divided authority at each step.
-
-Sources for the incident include the ACLU case page on *Williams v. City of Detroit*, the ACLU settlement announcement, Robert Williams’s own account through the ACLU of Michigan, and the NIST Face Recognition Vendor Test report on demographic effects in face recognition.
-
 ## 1. Incident Narrative
 
 The pathway began with store surveillance footage of a person suspected of stealing watches. Police extracted or selected a still image from that footage and sent it for a facial recognition search. The search returned Robert Williams as a possible match, based on an expired driver’s license photo. The match was incorrect.
@@ -89,7 +86,7 @@ Police controlled what information entered the application. The magistrate contr
 
 ### Authority
 
-This is where formal authority became strongest. The warrant converted a mediated chain of uncertain signals into legal permission for physical arrest. Authority appeared clear at the endpoint, but the reliability of that authority depended on earlier SVDs that remained weak and partly hidden.
+The warrant converted a mediated chain of uncertain signals into legal permission for physical arrest. Authority appeared clear at the endpoint, but the reliability of that authority depended on earlier SVDs that remained weak and partly hidden.
 
 ## 5. Cumulative Distortion Across the Pathway
 
@@ -140,8 +137,8 @@ The accountability pathway is delayed. Williams could challenge the system only 
 Responsibility does not sit in one place.
 
 The facial recognition system produced the false lead, but it did not decide to arrest. Police selected the image, ran or requested the search, built the lineup, interpreted the lead, and sought the warrant. The court validated the warrant based on the information presented. Department policy and training shaped whether officers treated the facial recognition result as a weak lead or as something stronger.
-
-This is a responsibility trap. Each actor can point to another part of the pathway. The algorithm only produced a possible match. Police can say they sought human review and a warrant. The court can say it relied on the police file. The vendor or search infrastructure can say users must treat matches only as leads. Yet the combined pathway still produced an arrest.
+ 
+Each actor can point to another part of the pathway. The algorithm only produced a possible match. Police can say they sought human review and a warrant. The court can say it relied on the police file. The vendor or search infrastructure can say users must treat matches only as leads. Yet the combined pathway still produced an arrest.
 
 Responsibility therefore sits mainly with the institutional users and governors of the system. Police had the practical control to decide how to use the lead. Department leadership had responsibility for policy, training, and safeguards. Courts had authority to reject weak applications, but their control depended on what police disclosed. The computational system contributed to harm, but human institutions made the output coercive.
 
