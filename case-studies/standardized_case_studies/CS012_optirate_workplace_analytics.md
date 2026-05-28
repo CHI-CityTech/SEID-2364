@@ -24,54 +24,57 @@ The engineering team states that the platform operates according to specificatio
 This case therefore centers on a key socio-technical problem: a system can be technically reliable, legally compliant, and operationally useful while still generating ethical concerns related to dignity, autonomy, fairness, and institutional trust.
 
 ## Intervention Strategies in Scope
+OptiRate combines prediction, monitoring, and managerial decision support rather than a single intervention. Ethical evaluation therefore depends on how these components are bundled, interpreted, and operationalized in workplace governance.
+
 - Continuous monitoring with dashboard-based management analytics
 - Burnout prediction and intervention signaling
 - Communication and collaboration bottleneck detection
 - Risk scoring used in managerial review workflows
 
 ## Governance and Context Notes
-- The case invites comparison between internal corporate governance and external regulatory expectations.
-- Relevant policy and framework lenses include workplace privacy norms, labor regulation, professional ethics codes, and AI risk governance approaches.
-- Practical accountability often depends on observability: what employees can see, contest, or appeal.
+This case is strongest when analyzed as a socio-technical governance problem, not only as a privacy or technical-accuracy question. The central governance issue is whether organizational control over data and interpretation outpaces employee visibility, recourse, and meaningful consent.
+
+Relevant frameworks include workplace privacy norms, labor regulation, professional ethics codes, and AI risk governance approaches. In practice, accountability is tied to observability: what workers can see, challenge, and appeal when model outputs influence managerial decisions.
 
 ## Stakeholders
-- **Primary stakeholders (directly acted on by system outputs):**
-- Employees
-- Managers
-- Human resources departments
-- **Economic stakeholders (value and risk exposure):**
-- Business owners and executive leadership
-- Shareholders and investors
-- Customers and clients
-- **Governance stakeholders (rule-setting and oversight):**
-- Regulatory agencies and labor authorities
-- Data protection and privacy oversight bodies
-- Courts and legal institutions
-- **System design and accountability stakeholders:**
-- Synaptix engineers and developers
-- Labor advocacy groups and worker representatives
+Stakeholder analysis should group actors by how they experience system power: who is acted upon, who controls deployment, who carries economic exposure, and who oversees compliance and redress.
+
+- **Directly affected participants:** employees, managers, and human-resources teams whose judgments and outcomes are shaped by analytics outputs.
+- **Economic stakeholders:** business owners/executive leadership, shareholders/investors, and customers or clients exposed to productivity, innovation, and reputational outcomes.
+- **Governance stakeholders:** regulatory agencies, labor authorities, data protection and privacy oversight bodies, and courts or legal institutions.
+- **System design and accountability stakeholders:** Synaptix engineers/developers and labor advocacy groups or worker representatives.
 
 ## Risk and Harm Map
-- **Implementation risks (if OptiRate is deployed):**
-- **Psychological harm:** Stress, anxiety, and self-censorship under persistent monitoring
-- **Autonomy harm:** Constrained behavioral freedom due to metric-driven expectations
-- **Fairness risk:** Uneven impact on workers with different communication styles or neurocognitive profiles
-- **Power asymmetry risk:** Limited practical ability for workers to refuse, question, or shape system use
-- **Institutional trust risk:** Reduced trust in management when decision pathways are opaque
-- **Innovation suppression risk:** Lower creative exploration can reduce long-term product discovery and strategic advantage
+Risk is bidirectional in this case. Harm can emerge from over-deployment, under-deployment, or from delayed second-order effects that are not visible in short-term productivity metrics.
 
-- **Non-implementation risks (if OptiRate is not deployed):**
-- **Operational inefficiency risk:** Ongoing coordination bottlenecks, slower delivery, and reduced responsiveness
-- **Economic opportunity-loss risk:** Foregone productivity gains and delayed process improvements
-- **Burnout detection gap:** Fewer early indicators for teams under strain, potentially increasing turnover costs
-- **Competitive position risk:** Slower adaptation relative to firms using analytics more effectively
+### Implementation Risks (if OptiRate is deployed)
+If implementation is broad and managerial dependence on analytics is high, organizations may gain operational visibility while increasing socio-technical harms.
 
-- **Bidirectional economic harms (both paths can create losses):**
-- **Adoption-side costs:** Procurement, integration, compliance, training, and possible cultural damage costs
-- **Non-adoption-side costs:** Missed efficiency gains, avoidable delay costs, and unrealized performance improvements
-- **Downstream uncertainty:** A system can improve short-term metrics while weakening long-term creativity, which may later produce economic loss through missed inventions or strategic opportunities
+- **Psychological harm:** stress, anxiety, and self-censorship under persistent monitoring.
+- **Autonomy harm:** constrained behavioral freedom due to metric-driven expectations.
+- **Fairness risk:** uneven impact on workers with different communication styles or neurocognitive profiles.
+- **Power asymmetry risk:** limited practical ability for workers to refuse, question, or shape system use.
+- **Institutional trust risk:** reduced trust in management when decision pathways are opaque.
+- **Innovation suppression risk:** lower creative exploration can reduce long-term product discovery and strategic advantage.
+
+### Non-Implementation Risks (if OptiRate is not deployed)
+If organizations avoid analytics altogether, they may reduce surveillance pressure but retain coordination failures and delayed intervention in workforce strain.
+
+- **Operational inefficiency risk:** ongoing coordination bottlenecks, slower delivery, and reduced responsiveness.
+- **Economic opportunity-loss risk:** foregone productivity gains and delayed process improvements.
+- **Burnout detection gap:** fewer early indicators for teams under strain, potentially increasing turnover costs.
+- **Competitive position risk:** slower adaptation relative to firms using analytics more effectively.
+
+### Bidirectional Economic Tradeoff Risks
+Some costs exist in both directions and require governance design, not simple adoption or rejection.
+
+- **Adoption-side costs:** procurement, integration, compliance, training, and possible cultural-damage costs.
+- **Non-adoption-side costs:** missed efficiency gains, avoidable delay costs, and unrealized performance improvements.
+- **Downstream uncertainty:** a system can improve short-term metrics while weakening long-term creativity, which may later produce economic loss through missed inventions or strategic opportunities.
 
 ## Discussion Questions
+These questions are intended to move students beyond a pro- or anti-monitoring stance toward structured analysis of governance design, worker dignity, and long-term organizational consequences.
+
 1. Which benefits claimed by Synaptix are ethically significant, and for whom?
 2. Which harms are most likely if OptiRate is implemented, and which harms are most likely if it is not implemented?
 3. At what point does workplace analytics become workplace surveillance?
@@ -86,6 +89,8 @@ This case therefore centers on a key socio-technical problem: a system can be te
 12. How should leaders evaluate short-term efficiency gains against possible long-term innovation loss?
 
 ## Suggested Analytical Lenses
+No single framework resolves this case completely. Students should compare professional codes, governance diagnostics, and classical ethical theories to test where conclusions align and where tradeoffs remain unresolved.
+
 - ACM Code of Ethics
 - IEEE Code of Ethics
 - BBS mediation pathway analysis

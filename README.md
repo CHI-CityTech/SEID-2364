@@ -10,22 +10,22 @@
 
 ## 🔗 **Current Assignment**
 
-[Assignment 10: System Synthesis and Communicating Ethical Analysis](./assignments/SEID2364_Assignment10_system_synthesis_and_communication.md) — synthesize your A7–A9 system analyses into one integrated understanding; develop your paper research question, outline, and opening; plan your oral presentation structure and visuals.
 
-This assignment consists of three sequential parts:
 
-- **Part 1** — Integrative System Analysis: combine regulatory (A7), bias (A8), and responsibility (A9) perspectives into one coherent system description with a core ethical tension
-- **Part 2** — Paper Framework: develop your research question, paper outline, opening paragraphs, and annotated source list
-- **Part 3** — Presentation Planning: define audience and scope, outline structure with time allocation, plan visuals
+**Current Assignment:**
+No new assignment this week. The previous Assignment 11 (ACM and IEEE Professional Ethics Applied to the COVID-19 Misinformation Case) has been archived to reduce workload and allow a course reset. See the archive for details.
 
 **Supporting materials:**
+- [COVID-19 Misinformation Case Study](./case-studies/case_study-covid_misinformation.md)
 
-- [Assignment 10 — Full Prompt](./assignments/SEID2364_Assignment10_system_synthesis_and_communication.md)
-- [Week 10 Resource Index](./resources/week-10/README.md)
-- [Temporal Distance and Time in BBS](./resources/week-10/10_00_temporal_distance_and_time_in_bbs.md) — still relevant for temporal analysis questions
+*Note: Assignment 11 and other archived assignments are now located in [assignments/archive/](./assignments/archive/).*
+
 
 <details>
+
 <summary>Past Assignments</summary>
+
+- [Assignment 10: System Synthesis and Communicating Ethical Analysis](./assignments/SEID2364_Assignment10_system_synthesis_and_communication.md) — synthesize your A7–A9 system analyses into one integrated understanding; develop your paper research question, outline, and opening; plan your oral presentation structure and visuals.
 
 - [Assignment 9: Mediation Pathways, Capability, and Responsibility](./assignments/SEID2364_Assignment09_mediation_pathways_capability_and_responsibility.md) — reconstruct how harmful outcomes emerge through mediation pathways in a real-world incident; apply EDOCA to evaluate capability under constraint; analyze whether harm was unintended, foreseeable but not prevented, or designed with plausible deniability; map where responsibility becomes distributed or unclear.
 - [Assignment 8: Bias, Decision-Making, and Harm in AI-Mediated Systems](./assignments/SEID2364_Assignment08_ai_mediation_risk_fluidity_and_regulatory_limits.md) — select a new AI system, construct three deployment scenarios, and map where bias enters and travels through a mediation pathway, how it shapes decisions, and what harms it produces.

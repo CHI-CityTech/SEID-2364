@@ -1,0 +1,1 @@
+This folder is deprecated. Please use 'archive/' for all assignment archiving. Files will be moved automatically.
