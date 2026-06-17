@@ -1,6 +1,6 @@
-#Journal Entry – Week 4
+# Journal Entry – Week 4
 Ethical Framework Analysis
-##Part 1 — System Overview
+## Part 1 — System Overview
 System Chosen:
 Automated Hiring Algorithm used by companies to screen job applicants
 
@@ -18,7 +18,7 @@ Communities affected by employment opportunities
 
 Regulators and labor rights organizations
 
-##Part 2 — Ethical Framework 1 (Course Framework)
+## Part 2 — Ethical Framework 1 (Course Framework)
 Framework Chosen: Utilitarianism
 Core Principles
 Actions are morally right if they maximize overall well‑being.
@@ -30,7 +30,7 @@ The morally correct action is the one that produces the greatest net good.
 Why This Framework Applies
 Utilitarianism is useful for evaluating large‑scale sociotechnical systems because it requires examining aggregate outcomes, not just individual cases. Automated hiring affects thousands of applicants, so utilitarian reasoning helps assess broad social impact.
 
-##Part 3 — Ethical Framework 2 (Independent Framework)
+## Part 3 — Ethical Framework 2 (Independent Framework)
 Framework Chosen: Rawlsian Justice (Justice as Fairness)
 Core Principles
 Social and economic inequalities are acceptable only if they benefit the least advantaged.
@@ -42,8 +42,8 @@ Fairness, equal opportunity, and protection of vulnerable groups are central.
 Why This Framework Applies
 Hiring systems directly influence access to economic opportunity. Rawlsian justice provides a strong lens for evaluating whether the system treats all applicants fairly and whether it disadvantages already marginalized groups.
 
-##Part 4 — Applying Both Frameworks to the System
-###4.1 Utilitarian Analysis
+## Part 4 — Applying Both Frameworks to the System
+### 4.1 Utilitarian Analysis
 Potential Benefits
 Faster processing of applications
 
@@ -70,7 +70,7 @@ Utilitarian Conclusion
 If the algorithm reduces overall harm and improves total well‑being, it could be justified.
 However, if it systematically disadvantages certain groups or reduces fairness, the net harm outweighs the benefits, making the system ethically unacceptable under utilitarianism.
 
-###4.2 Rawlsian Justice Analysis
+### 4.2 Rawlsian Justice Analysis
 Key Questions
 Would I accept this system if I didn’t know my race, gender, education, or socioeconomic status?
 
@@ -94,7 +94,7 @@ improve opportunities for disadvantaged applicants, and
 
 operate transparently and fairly.
 
-##Part 5 — Comparing the Frameworks
+## Part 5 — Comparing the Frameworks
 Where They Agree
 Both frameworks reject discrimination.
 
@@ -114,7 +114,7 @@ Rawlsian justice rejects the system if it harms vulnerable groups, regardless of
 Which Framework Is More Demanding?
 Rawlsian justice is stricter because it requires fairness for all, not just overall benefit.
 
-##Part 6 — Meta‑Evaluation
+## Part 6 — Meta‑Evaluation
 Which Framework Better Addresses This System?
 Rawlsian Justice provides a stronger ethical evaluation for hiring algorithms because:
 
@@ -126,5 +126,5 @@ The system’s potential to reinforce inequality is central to its ethical evalu
 
 Rawlsian reasoning highlights harms that utilitarianism might overlook.
 
-##Part 7 — Reflection
+## Part 7 — Reflection
 This assignment helped me understand that ethical evaluation is not just about identifying harms but about choosing the right moral lens. Utilitarianism highlights large‑scale consequences, while Rawlsian justice emphasizes fairness and structural inequality. Applying both frameworks revealed that automated hiring systems raise deep concerns about justice, transparency, and equal opportunity. Ethical analysis requires not only identifying harms but also understanding whose interests matter most and how systems shape society over time.
