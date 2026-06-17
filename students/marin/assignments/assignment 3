@@ -1,0 +1,127 @@
+Journal Entry – Week 3
+Harm Analysis Framework
+Part 1 — Speculative Harm Analysis (Before Readings)
+System Chosen:
+Automated Hiring Algorithm used by companies to screen job applicants
+
+1.1 What the System Does
+The hiring algorithm evaluates résumés and application materials to decide which candidates advance to interviews. It may score applicants based on keywords, past experience, education, or inferred traits.
+
+1.2 Who the Stakeholders Are
+Job applicants
+
+Hiring managers and HR staff
+
+The company using the system
+
+Communities affected by employment opportunities
+
+Regulators and labor rights organizations
+
+1.3 Speculative Harms (Before Readings)
+Harm 1 — Discrimination and Bias
+The algorithm may favor certain demographics (e.g., men, certain ethnic groups, certain universities) if trained on biased historical hiring data.
+
+Harm 2 — Exclusion of Qualified Candidates
+Applicants with unconventional backgrounds or non‑standard résumés may be filtered out automatically.
+
+Harm 3 — Lack of Transparency
+Applicants may not know why they were rejected or how to improve their chances.
+
+Harm 4 — Reinforcement of Inequality
+If the system systematically excludes certain groups, it can worsen existing socioeconomic disparities.
+
+Harm 5 — Psychological and Emotional Harm
+Automated rejection without explanation can create feelings of helplessness or unfairness.
+
+Part 2 — Reading‑Informed Updates
+After reading the assigned materials on harm, fairness, and sociotechnical systems, I refined my understanding of harms and added new categories.
+
+2.1 New Insights from Readings
+Insight 1 — Harms Can Be Downstream and Systemic
+Harms are not only immediate; they can accumulate over time and across institutions. A biased hiring algorithm can influence entire career trajectories.
+
+Insight 2 — Harms Can Be Non‑Material
+Emotional, dignitary, and representational harms matter even when no material loss occurs.
+
+Insight 3 — Systems Can Create New Harms
+Automated systems may introduce harms that did not exist in human‑only hiring, such as algorithmic opacity or data‑driven stereotyping.
+
+Insight 4 — Harms Are Distributed Unevenly
+Some groups bear disproportionate risk (e.g., women, immigrants, people with disabilities).
+
+Part 3 — Revised Harm Analysis (After Readings)
+3.1 Updated Harm Categories
+Harm Category A — Allocative Harms
+These harms involve the distribution of opportunities or resources.
+
+Qualified candidates may be denied interviews.
+
+Certain groups may be systematically excluded from employment.
+
+The algorithm may amplify historical inequalities.
+
+Harm Category B — Representational Harms
+These harms involve how groups are portrayed or valued.
+
+The system may encode stereotypes (e.g., associating leadership with male‑coded language).
+
+Applicants from marginalized groups may be implicitly treated as “less desirable.”
+
+Harm Category C — Procedural Harms
+These harms relate to fairness in process.
+
+Lack of transparency in scoring and rejection.
+
+No meaningful way to appeal or correct errors.
+
+Applicants cannot understand or challenge the system’s logic.
+
+Harm Category D — Quality‑of‑Life Harms
+These harms affect well‑being.
+
+Emotional distress from unexplained rejection.
+
+Loss of confidence or trust in hiring systems.
+
+Increased stress for applicants who cannot tailor their résumés to opaque criteria.
+
+Harm Category E — Societal and Structural Harms
+These harms affect communities and institutions.
+
+Reinforcement of systemic discrimination.
+
+Reduced workforce diversity.
+
+Long‑term economic impacts on excluded groups.
+
+Part 4 — Reflection on Frameworks
+4.1 How the Framework Changed My Thinking
+Before the readings, I thought of harm mostly as individual unfairness.
+After the readings, I now understand harm as:
+
+multi‑layered (individual, group, societal)
+
+both material and symbolic
+
+often invisible or indirect
+
+embedded in sociotechnical systems
+
+The framework helped me see that harms are not just outcomes but also processes, representations, and structures.
+
+4.2 What the Framework Helped Me Notice
+The hiring algorithm does not just reject people; it shapes who gets access to opportunity.
+
+Harms can occur even when the system “works as designed.”
+
+Some harms are hard to measure but still significant.
+
+The system interacts with existing inequalities, often amplifying them.
+
+4.3 Remaining Questions
+How can we measure representational harms in algorithmic systems?
+
+What counts as a “fair” hiring process?
+
+Should automated hiring be allowed at all without human oversight?
