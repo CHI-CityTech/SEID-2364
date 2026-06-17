@@ -1,4 +1,4 @@
-Part 1 — Integrative System Analysis (Synthesis of A7, A8, A9)
+# Part 1 — Integrative System Analysis (Synthesis of A7, A8, A9)
 System Overview (1 paragraph)
 The Robert Williams wrongful arrest case centers on a facial recognition system used by the Detroit Police Department (DPD) to identify suspects from surveillance footage. The system produced a false match, which investigators treated as reliable evidence. This output shaped downstream decisions: lineup construction, witness confirmation, warrant approval, and ultimately Williams’ arrest. Across regulatory, bias, and responsibility lenses, the case reveals how AI‑mediated policing systems transform weak signals into authoritative evidence, distributing responsibility across multiple agents while amplifying structural inequities.
 
@@ -81,7 +81,7 @@ Responsibility is distributed but not aligned with capability.
 
 The ethical challenge is not simply that the system is inaccurate — it is that the system mediates human judgment in ways that make harm predictable, uncorrected, and institutionally invisible.
 
-Part 2 — Paper Framework and Research Organization
+# Part 2 — Paper Framework and Research Organization
 Research Question (1–2 sentences)
 How does facial recognition technology in policing convert probabilistic outputs into authoritative evidence, and what does this reveal about the limits of regulation, the predictability of bias, and the diffusion of responsibility in AI‑mediated decision systems?
 
@@ -148,7 +148,7 @@ Identify open questions for future research
 
 
 
-Part 3 — Presentation Planning and Structure
+# Part 3 — Presentation Planning and Structure
 Audience & Scope
 Audience: classmates + instructor
 Goal: explain how AI‑mediated policing transforms uncertainty into harm
