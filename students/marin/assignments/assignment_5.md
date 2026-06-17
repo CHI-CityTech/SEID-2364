@@ -5,7 +5,7 @@ A hiring algorithm determines whether a job applicant is advanced to the intervi
 This represents one instance of a broader system that repeatedly produces hiring‑screening decisions across many applicants.
 
 System Components
-##1. Actors
+## 1. Actors
 Entities that participate in or influence the system:
 
 Hiring Company — commissions, configures, and deploys the algorithm.
