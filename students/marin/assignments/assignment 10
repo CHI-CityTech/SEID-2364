@@ -1,0 +1,188 @@
+Part 1 — Integrative System Analysis (Synthesis of A7, A8, A9)
+System Overview (1 paragraph)
+The Robert Williams wrongful arrest case centers on a facial recognition system used by the Detroit Police Department (DPD) to identify suspects from surveillance footage. The system produced a false match, which investigators treated as reliable evidence. This output shaped downstream decisions: lineup construction, witness confirmation, warrant approval, and ultimately Williams’ arrest. Across regulatory, bias, and responsibility lenses, the case reveals how AI‑mediated policing systems transform weak signals into authoritative evidence, distributing responsibility across multiple agents while amplifying structural inequities.
+
+Regulatory Analysis + Gaps (EU AI Act Lens)
+Under the EU AI Act, facial recognition used for law enforcement identification is classified as high‑risk, triggering strict obligations: documentation, accuracy requirements, human oversight, and bias mitigation. However, the Act’s obligations focus heavily on system classification and technical compliance, not on deployment context or institutional workflow. In the Williams case, even if the system met technical documentation requirements, the Act does not fully address:
+
+How investigators interpret algorithmic outputs
+
+How lineup procedures amplify algorithmic bias
+
+How institutional incentives (speed, clearance rates) distort oversight
+
+How responsibility diffuses across vendor, police, and supervisors
+
+The Act also leaves ambiguity around probabilistic identification: it regulates biometric identification but does not clearly define how “candidate lists” should be treated. This gap allows algorithmic suggestions to be treated as evidence, even though the regulation intends them to be mere leads. The Act’s focus on system‑level compliance does not prevent harm when organizational practices convert low‑quality matches into authoritative decisions.
+
+Bias Pathways + Harms (A8 Lens)
+Bias enters the system at multiple points:
+
+Data bias: Training datasets underrepresent darker‑skinned individuals, reducing accuracy.
+
+Signal quality bias: Blurry surveillance images disproportionately harm those with darker skin tones.
+
+Procedural bias: Lineup construction centered on the algorithmic match creates confirmation bias.
+
+Institutional bias: Investigators assume technological neutrality, reinforcing racial disparities.
+
+Harms accumulate across pathways:
+
+Direct harm: Wrongful arrest, detention, trauma, reputational damage.
+
+Indirect harm: Erosion of trust in law enforcement, community‑level fear, systemic racial inequity.
+
+Distributed harm: The system disproportionately affects Black individuals, who are more likely to be misidentified and more likely to be targeted by police surveillance.
+
+Bias is not a single failure but a cascading process: a low‑quality signal becomes a high‑stakes decision because each downstream actor treats the previous step as authoritative.
+
+Responsibility & Capability (EDOCA Lens)
+Using EDOCA:
+
+Effort
+Investigators rely on the system to reduce investigative effort.
+
+Supervisors approve warrants with minimal review.
+
+Distortion
+The algorithm distorts the original signal (blurry image → confident match).
+
+The lineup further distorts the signal by centering the algorithmic candidate.
+
+Observability
+Investigators cannot observe model uncertainty.
+
+Supervisors cannot observe the quality of the underlying match.
+
+Williams cannot observe or challenge the process at all.
+
+Control
+Vendor controls model design.
+
+Police control deployment.
+
+No one controls how the system reshapes human judgment.
+
+Authority
+The system has de facto authority despite lacking legal authority.
+
+Human actors defer to algorithmic output, creating a responsibility vacuum.
+
+Capability vs. Responsibility Gap
+The system’s capability (producing similarity scores) far exceeds the institution’s ability to use it responsibly. Responsibility is distributed so widely that no single actor feels accountable, even though each contributes to harm.
+
+Core Ethical Tension (1 page)
+When all three lenses are applied simultaneously, the core ethical tension becomes clear:
+
+The system transforms a low‑quality probabilistic signal into authoritative evidence through institutional workflows that regulation does not govern, bias makes predictable, and responsibility structures fail to contain.
+Regulation focuses on system classification, not deployment.
+Bias is foreseeable but structurally embedded.
+Responsibility is distributed but not aligned with capability.
+
+The ethical challenge is not simply that the system is inaccurate — it is that the system mediates human judgment in ways that make harm predictable, uncorrected, and institutionally invisible.
+
+Part 2 — Paper Framework and Research Organization
+Research Question (1–2 sentences)
+How does facial recognition technology in policing convert probabilistic outputs into authoritative evidence, and what does this reveal about the limits of regulation, the predictability of bias, and the diffusion of responsibility in AI‑mediated decision systems?
+
+Paper Outline and Opening (5–8 pages)
+Tentative Title
+From Signal to Arrest: How AI‑Mediated Policing Converts Uncertainty into Authority
+
+Opening (300–500 words)
+
+The introduction will:
+
+Present the Williams case
+
+Explain why it matters ethically
+
+State the research question
+
+Preview the argument structure
+
+Body Section Outline
+Section 1 — Regulatory Lens: What the EU AI Act Covers and Misses
+Argument: Regulation classifies risk but does not govern institutional interpretation.
+
+Evidence: A7 analysis; EU AI Act text; policing case studies.
+
+Sources: A7 sources + new regulatory scholarship.
+
+Section 2 — Bias Pathways: How Harm Becomes Predictable
+Argument: Bias enters through data, signal quality, and institutional practice.
+
+Evidence: A8 scenarios; facial recognition accuracy studies.
+
+Sources: Buolamwini & Gebru; NIST FRVT reports.
+
+Section 3 — Responsibility & Capability: The EDOCA Gap
+Argument: Responsibility diffuses as capability increases.
+
+Evidence: A9 pathways; policing oversight failures.
+
+Sources: ACLU report; academic analyses of responsibility gaps.
+
+Section 4 — Synthesis: The Core Ethical Tension
+Argument: Harm emerges from the interaction of regulation, bias, and responsibility.
+
+Evidence: Integrated analysis.
+
+Sources: Cross‑assignment synthesis.
+
+Counterarguments / Complications
+“Facial recognition is just a lead.”
+
+“Human oversight prevents harm.”
+
+“Better datasets will fix bias.”
+
+Response: Show how mediation pathways undermine these claims.
+
+Conclusion Outline
+Restate argument
+
+Highlight implications for AI governance
+
+Identify open questions for future research
+
+
+
+Part 3 — Presentation Planning and Structure
+Audience & Scope
+Audience: classmates + instructor
+Goal: explain how AI‑mediated policing transforms uncertainty into harm
+Time: 5–10 minutes
+
+Presentation Outline
+Opening (1–2 min)
+Hook: “A computer got it wrong — and a man was arrested.”
+
+Context: Facial recognition in policing
+
+Question: How does uncertainty become authority?
+
+Body (3–5 min)
+Key finding 1: Regulatory gaps
+
+Key finding 2: Bias pathways
+
+Key finding 3: Responsibility diffusion
+
+Tension: These layers interact to produce predictable harm
+
+Closing (1–2 min)
+Implication: AI governance must address workflows, not just systems
+
+Final question: Who is responsible when everyone defers to the machine?
+
+Visual Elements Checklist
+System diagram (from A6)
+
+Bias pathway chart (from A8)
+
+EDOCA matrix snippet (from A9)
+
+Regulatory obligations summary (from A7)
+
+Each visual will illustrate one key insight and appear at the moment it supports the argument.
