@@ -1,4 +1,4 @@
-Part 1 — System Restatement (From Assignment 5)
+# Part 1 — System Restatement (From Assignment 5)
 Decision Statement
 A hiring algorithm determines whether a job applicant is advanced to the interview stage.
 
@@ -56,7 +56,7 @@ Job description requirements
 
 Metadata (formatting, file type)
 
-Part 2 — Mediation Pathway Inventory
+# Part 2 — Mediation Pathway Inventory
 Below are the major pathways required by the assignment:
 
 Data Pathway
@@ -77,7 +77,7 @@ Physical vs. virtual agency
 
 Information access and conditions
 
-Pathway 1 — Data Pathway
+## Pathway 1 — Data Pathway
 SVD Syntax
 Applicant (Local Physical) → Résumé Portal / Parser (Virtual Vector) → Hiring Algorithm (Remote Virtual)
 
@@ -129,7 +129,7 @@ File‑format constraints
 
 Vendor parsing rules
 
-Pathway 2 — Decision Pathway
+## Pathway 2 — Decision Pathway
 SVD Syntax
 Hiring Algorithm (Remote Virtual) → Scoring Model + Threshold Logic (Virtual Vector) → HR Dashboard (Remote Physical/Virtual Hybrid)
 
@@ -177,7 +177,7 @@ Company policy
 
 Vendor dashboard settings
 
-Pathway 3 — Accountability Pathway
+## Pathway 3 — Accountability Pathway
 SVD Syntax
 HR Staff (Local Physical) → Compliance/Policy Systems (Institutional Vector) → Regulators / Legal Bodies (Distant Physical)
 
