@@ -1,0 +1,148 @@
+Journal Entry – Week 2
+Defining Intelligence
+Part 1 — Initial Speculative Definition of Intelligence
+1.1 Initial Provocations from Class
+“Is intelligence the ability to solve problems or the ability to adapt?”
+
+“Can a machine be intelligent if it doesn’t understand what it’s doing?”
+
+“Is intelligence about reasoning, learning, or something else entirely?”
+
+1.2 Initial Speculative Definition
+Before engaging with the readings, I would define intelligence as:
+
+“The capacity of a system to learn from experience, adapt to new situations, and use information to achieve goals.”
+
+This definition feels intuitive because it applies to both humans and machines. It emphasizes learning, adaptation, and goal‑directed behavior without assuming biological or conscious processes.
+
+Part 2 — Core Readings Reflection
+2.1 Legg & Hutter — A Collection of Definitions of Intelligence
+Legg & Hutter compile over 70 definitions from psychology, AI, philosophy, and biology. Several themes recur:
+
+Intelligence involves achieving goals.
+
+It requires adaptation across environments.
+
+It often includes learning, reasoning, or problem‑solving.
+
+Some definitions emphasize prediction or optimization.
+
+Their unified proposal — intelligence as an agent’s ability to achieve goals in a wide range of environments — highlights generality and flexibility. This broadened my view beyond learning alone.
+
+2.2 Stanford Encyclopedia of Philosophy (SEP)
+The SEP entry on Artificial Intelligence emphasizes:
+
+Competence in reasoning, planning, learning, and perception
+
+Differences between symbolic and sub‑symbolic approaches
+
+Intelligence as behavioral performance, not internal consciousness
+
+This challenged my initial definition by showing that intelligence also involves structured representation and inference, not just adaptation.
+
+2.3 Alan Turing — Computing Machinery and Intelligence
+Turing reframes intelligence as an operational property: if a machine’s behavior is indistinguishable from a human’s in conversation, it can be considered intelligent.
+
+Key insights:
+
+Intelligence can be evaluated through performance, not subjective experience.
+
+The Imitation Game uses human‑like behavior as a benchmark.
+
+Some intelligent systems might fail the Turing Test despite being capable.
+
+Turing argues that intelligence should not be restricted to biological systems.
+
+This pushed me to think about intelligence as something observable and testable.
+
+2.4 Additional Research
+I added the following source to the shared Zotero library:
+
+Russell & Norvig (2021). Artificial Intelligence: A Modern Approach.
+
+This text frames intelligence as rational action — selecting actions that maximize expected performance given available information. This helped me refine my rule‑based model by emphasizing decision‑making and rationality.
+
+Part 3 — Constructing a Theory of Intelligence
+3.1 Rule‑Based Analytical Definition
+Rule 1 — Goal‑Directed Behavior
+The system must pursue one or more goals, either explicitly programmed or internally generated.
+
+Rule 2 — Information Processing
+The system must acquire, store, and use information to guide its actions.
+
+Rule 3 — Learning or Adaptation
+The system must improve its performance or modify its behavior based on experience or environmental feedback.
+
+Rule 4 — Generality Across Contexts
+The system must be able to operate in more than one environment or task domain.
+
+Rule 5 — Flexible Problem‑Solving
+The system must be capable of selecting among multiple possible actions, not merely executing a fixed script.
+
+Boundary Between Non‑Intelligent and Intelligent
+A system becomes intelligent when it satisfies Rules 1–3.
+It becomes more intelligent as it satisfies Rules 4–5 to a greater degree.
+
+Distinguishing Intelligence from Agency
+Intelligence: the ability to learn, adapt, and solve problems
+
+Agency: the ability to initiate actions based on goals or preferences
+
+A system may be intelligent without agency (e.g., a learning algorithm with no autonomy), or agentic without intelligence (e.g., a thermostat).
+
+3.2 Boundary Testing
+Systems Classified as Intelligent
+1. Humans
+Goal‑directed
+
+Learn from experience
+
+Adapt across environments
+
+Flexible problem‑solving
+
+High generality
+Classification: Intelligent
+
+2. Large Language Models
+Process information
+
+Learn from data during training
+
+Adapt responses to context
+
+Generalize across tasks
+
+Limited agency
+Classification: Intelligent but not agentic
+
+Systems Classified as Not Intelligent
+1. Mechanical Clock
+No learning
+
+No adaptation
+
+No flexible problem‑solving
+
+Executes fixed rules
+Classification: Not intelligent
+
+2. Basic If‑Then Rule System
+Has a goal (e.g., filter spam)
+
+No learning
+
+No adaptation
+
+No generality
+Classification: Not intelligent
+
+Ambiguities and Limitations
+Some systems (e.g., thermostats, bacteria) show minimal adaptation but not enough to meet the threshold.
+
+Machine learning systems “learn” differently from humans, raising questions about whether learning requires understanding.
+
+Intelligence may be scalar, and these rules do not quantify degrees of intelligence.
+
+Brief Ethical Reflection
+Defining intelligence has ethical implications. Systems classified as intelligent may be granted autonomy, trust, or responsibility. Over‑attributing intelligence to machines can lead to misplaced expectations or unsafe delegation of decision‑making. Under‑attributing intelligence can limit useful applications or misrepresent capabilities.
