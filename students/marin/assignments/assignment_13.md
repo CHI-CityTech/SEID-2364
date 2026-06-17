@@ -21,7 +21,7 @@ Philosophically, my position aligns most closely with Rawlsian justice and care 
 This position also reflects my discomfort with opacity in sociotechnical systems. Transparency is not just a procedural value; it is a moral one. People deserve to know how decisions about them are made, especially when those decisions carry risk. Ultimately, my personal ethical stance is grounded in the belief that systems must be designed and governed with attention to power, vulnerability, and the lived realities of those most affected.
 
 ## 3. Professional Ethical Position Statement
-###3A. Professional Ethical Position (One Paragraph)
+### 3A. Professional Ethical Position (One Paragraph)
 As a future data scientist, I believe my primary professional responsibilities are to anticipate harm, challenge unjust systems, and ensure that my work does not amplify inequity. I prioritize fairness and accountability over efficiency or performance metrics. When professional obligations conflict, I choose the path that protects affected communities, even if it means slowing development, refusing deployment, or escalating concerns. I reject the idea that technical roles are neutral; data scientists are responsible for the downstream consequences of the systems they build, including those mediated through institutions and other agents.
 
 ### 3B. Analysis Using Professional Standards
