@@ -1,13 +1,13 @@
-Journal Entry – Week 3
+# Journal Entry – Week 3
 Harm Analysis Framework
-Part 1 — Speculative Harm Analysis (Before Readings)
+## Part 1 — Speculative Harm Analysis (Before Readings)
 System Chosen:
 Automated Hiring Algorithm used by companies to screen job applicants
 
-1.1 What the System Does
+### 1.1 What the System Does
 The hiring algorithm evaluates résumés and application materials to decide which candidates advance to interviews. It may score applicants based on keywords, past experience, education, or inferred traits.
 
-1.2 Who the Stakeholders Are
+### 1.2 Who the Stakeholders Are
 Job applicants
 
 Hiring managers and HR staff
@@ -18,7 +18,7 @@ Communities affected by employment opportunities
 
 Regulators and labor rights organizations
 
-1.3 Speculative Harms (Before Readings)
+### 1.3 Speculative Harms (Before Readings)
 Harm 1 — Discrimination and Bias
 The algorithm may favor certain demographics (e.g., men, certain ethnic groups, certain universities) if trained on biased historical hiring data.
 
@@ -34,10 +34,10 @@ If the system systematically excludes certain groups, it can worsen existing soc
 Harm 5 — Psychological and Emotional Harm
 Automated rejection without explanation can create feelings of helplessness or unfairness.
 
-Part 2 — Reading‑Informed Updates
+## Part 2 — Reading‑Informed Updates
 After reading the assigned materials on harm, fairness, and sociotechnical systems, I refined my understanding of harms and added new categories.
 
-2.1 New Insights from Readings
+### 2.1 New Insights from Readings
 Insight 1 — Harms Can Be Downstream and Systemic
 Harms are not only immediate; they can accumulate over time and across institutions. A biased hiring algorithm can influence entire career trajectories.
 
@@ -50,8 +50,8 @@ Automated systems may introduce harms that did not exist in human‑only hiring,
 Insight 4 — Harms Are Distributed Unevenly
 Some groups bear disproportionate risk (e.g., women, immigrants, people with disabilities).
 
-Part 3 — Revised Harm Analysis (After Readings)
-3.1 Updated Harm Categories
+##Part 3 — Revised Harm Analysis (After Readings)
+###3.1 Updated Harm Categories
 Harm Category A — Allocative Harms
 These harms involve the distribution of opportunities or resources.
 
@@ -95,8 +95,8 @@ Reduced workforce diversity.
 
 Long‑term economic impacts on excluded groups.
 
-Part 4 — Reflection on Frameworks
-4.1 How the Framework Changed My Thinking
+## Part 4 — Reflection on Frameworks
+### 4.1 How the Framework Changed My Thinking
 Before the readings, I thought of harm mostly as individual unfairness.
 After the readings, I now understand harm as:
 
@@ -110,7 +110,7 @@ embedded in sociotechnical systems
 
 The framework helped me see that harms are not just outcomes but also processes, representations, and structures.
 
-4.2 What the Framework Helped Me Notice
+### 4.2 What the Framework Helped Me Notice
 The hiring algorithm does not just reject people; it shapes who gets access to opportunity.
 
 Harms can occur even when the system “works as designed.”
