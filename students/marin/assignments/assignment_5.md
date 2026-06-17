@@ -1,11 +1,11 @@
-Part 1 — System Structure (Descriptive Layer)
+# Part 1 — System Structure (Descriptive Layer)
 Decision Statement
 A hiring algorithm determines whether a job applicant is advanced to the interview stage.
 
 This represents one instance of a broader system that repeatedly produces hiring‑screening decisions across many applicants.
 
 System Components
-1. Actors
+##1. Actors
 Entities that participate in or influence the system:
 
 Hiring Company — commissions, configures, and deploys the algorithm.
@@ -20,7 +20,7 @@ Regulators / Labor Agencies — influence compliance requirements.
 
 These actors collectively shape how decisions are produced, even if they do not all directly make decisions.
 
-2. Targets
+## 2. Targets
 Who the decision acts upon:
 
 Primary Target: The job applicant whose résumé is being evaluated.
@@ -35,7 +35,7 @@ Communities affected by employment opportunities
 
 Targets experience the consequences of the decision even if they do not participate in making it.
 
-3. Determinants
+## 3. Determinants
 Rules, criteria, and constraints that shape outcomes:
 
 Keyword‑matching rules (e.g., required skills)
@@ -50,7 +50,7 @@ Training data patterns
 
 These determinants define the boundaries within which the algorithm operates and strongly influence which applicants advance.
 
-4. Contributors
+## 4. Contributors
 Entities that influence outcomes without being the final decision authority:
 
 Data annotators who labeled training data
@@ -63,7 +63,7 @@ Technical infrastructure teams who maintain system performance
 
 Contributors shape the system’s behavior indirectly through data, design, or operational constraints.
 
-5. Information / Data Inputs
+## 5. Information / Data Inputs
 Information Inputs
 Applicant résumé text
 
@@ -111,7 +111,7 @@ Another candidate with identical skills but a conventional résumé layout is ad
 
 This demonstrates how different inputs and conditions within the same system produce different outcomes.
 
-Part 2 — Interpretive Layer (Ethical Overlay)
+# Part 2 — Interpretive Layer (Ethical Overlay)
 This section identifies how authority, ownership, responsibility, agency, and harm are distributed across the system.
 (Not an ethical evaluation — only structural interpretation.)
 
@@ -148,7 +148,7 @@ Communities may experience downstream economic effects.
 
 Authority, responsibility, and harm are not aligned — a central feature of distributed sociotechnical systems.
 
-Part 3 — System Flow (Pre‑Framework)
+# Part 3 — System Flow (Pre‑Framework)
 Information Flow Description
 Applicant submits résumé through a job portal.
 
