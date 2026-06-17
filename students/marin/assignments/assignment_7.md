@@ -1,7 +1,7 @@
-1. System Description (Concise)
+# 1. System Description (Concise)
 The automated hiring algorithm evaluates job applicants by parsing résumés, extracting features, and generating a score or recommendation (advance / reject / flag). HR staff interact with the system through a dashboard, while applicants interact only through résumé submission. The system performs a classification and ranking action that influences access to employment opportunities.
 
-2. Mediation Pathway (Revised from Assignment 6)
+# 2. Mediation Pathway (Revised from Assignment 6)
 Source → Vector → Destination (SVD)
 Applicant (Local Physical) → Résumé Portal + Parser (Virtual Vector) → Hiring Algorithm (Remote Virtual) → HR Dashboard (Remote Hybrid) → HR Decision (Remote Physical)
 
@@ -33,11 +33,11 @@ Risk‑management procedures
 Short Explanation
 The system is a multi‑stage mediated process where applicant data travels through virtual transformations before reaching human decision‑makers. Visibility decreases sharply once data enters the parser and algorithm, creating opacity that regulation may need to address. Risk emerges at each transformation point, especially where automated scoring influences downstream human decisions.
 
-3. EU AI Act Classification
+# 3. EU AI Act Classification
 Core Function
 The system evaluates job applicants and influences hiring decisions by generating automated recommendations.
 
-Use Case 1 — Standard Corporate Hiring
+## Use Case 1 — Standard Corporate Hiring
 Context: A private company uses the algorithm to screen applicants for non‑regulated jobs.
 Classification: High‑Risk AI System
 
@@ -46,7 +46,7 @@ Annex III(4)(a) lists “AI systems intended to be used for recruitment or selec
 
 Art. 6(2) states that systems listed in Annex III are automatically high‑risk.
 
-Use Case 2 — Hiring for Safety‑Critical Roles (e.g., aviation technician)
+## Use Case 2 — Hiring for Safety‑Critical Roles (e.g., aviation technician)
 Context: The algorithm screens candidates for roles where errors could cause physical harm.
 Classification: High‑Risk, with elevated risk implications
 
@@ -55,7 +55,7 @@ Annex III(3) covers systems determining access to education and vocational train
 
 Annex III(1) covers systems related to safety components of regulated products; while hiring is not itself a safety component, misclassification may indirectly affect safety‑critical operations.
 
-Use Case 3 — Informal Pre‑Screening Tool (Non‑Decisive)
+## Use Case 3 — Informal Pre‑Screening Tool (Non‑Decisive)
 Context: A company uses the algorithm only to sort résumés for HR review, with no automated rejection.
 Classification: Limited‑Risk
 
@@ -64,7 +64,7 @@ Art. 50 requires transparency for systems interacting with humans or generating 
 
 If the system does not make or meaningfully influence decisions, it may fall outside Annex III.
 
-4. Justification Using the EU AI Act
+# 4. Justification Using the EU AI Act
 Use Case 1 — High‑Risk Classification
 Legal Basis: Annex III(4)(a) — “AI systems intended to be used for recruitment or selection of natural persons.”
 
@@ -90,7 +90,7 @@ Interpretation: If the system does not reject applicants or meaningfully influen
 
 Ambiguity: The phrase “meaningfully influence” is not defined, creating uncertainty about borderline cases.
 
-5. Risk Analysis
+# 5. Risk Analysis
 Where Risk Is Introduced
 Parsing stage: mis‑extraction of skills
 
@@ -125,7 +125,7 @@ Reputational: unfair labeling of applicants
 
 Structural: reduced workforce diversity
 
-6. Regulatory Implications
+# 6. Regulatory Implications
 If Classified as High‑Risk
 The system must comply with:
 
@@ -161,7 +161,7 @@ Must inform users (HR) that they are interacting with an AI system
 
 No high‑risk obligations apply
 
-7. Research Integration
+# 7. Research Integration
 Findings from External Sources
 
 Research on AI hiring systems and EU regulation shows:
