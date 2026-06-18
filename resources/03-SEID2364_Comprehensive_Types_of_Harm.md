@@ -10,6 +10,10 @@ Dr. David B. Smith
 
 **Purpose.** This document consolidates a large number of different types of harm. It is intended as a reference for identifying, naming, and discussing harms in complex socio‑technical systems. The categories are intentionally overlapping; real cases often involve multiple harms occurring simultaneously or cascading over time.
 
+**Note on trust:** Loss of trust can be both a consequence of other harms and a direct, systemic harm in its own right. Trust is foundational to the functioning of sociotechnical systems—loss of trust in platforms, processes, information integrity, or institutions can undermine system effectiveness, safety, and social cohesion. For this reason, trust harm is included as a distinct analytic category and may also appear as a cross-cutting theme in other harms.
+
+* **Trust harm:** Erosion or loss of trust in systems, platforms, processes, information, or institutions. This includes failures of reliability, transparency, or accountability that undermine confidence, create uncertainty, or reduce willingness to participate, rely on, or cooperate with sociotechnical systems. Loss of trust can have cascading effects, amplifying other harms and destabilizing social or technical relationships.
+
 [**1\. Core harms	2**](#heading=)
 
 [**2\. Extended harms (analytic expansion)	2**](#heading=)

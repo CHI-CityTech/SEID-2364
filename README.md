@@ -10,23 +10,30 @@
 
 ## 🔗 **Current Assignment**
 
-[Assignment 10: System Synthesis and Communicating Ethical Analysis](./assignments/SEID2364_Assignment10_system_synthesis_and_communication.md) — synthesize your A7–A9 system analyses into one integrated understanding; develop your paper research question, outline, and opening; plan your oral presentation structure and visuals.
 
-This assignment consists of three sequential parts:
 
-- **Part 1** — Integrative System Analysis: combine regulatory (A7), bias (A8), and responsibility (A9) perspectives into one coherent system description with a core ethical tension
-- **Part 2** — Paper Framework: develop your research question, paper outline, opening paragraphs, and annotated source list
-- **Part 3** — Presentation Planning: define audience and scope, outline structure with time allocation, plan visuals
 
-**Supporting materials:**
 
-- [Assignment 10 — Full Prompt](./assignments/SEID2364_Assignment10_system_synthesis_and_communication.md)
-- [Week 10 Resource Index](./resources/week-10/README.md)
-- [Temporal Distance and Time in BBS](./resources/week-10/10_00_temporal_distance_and_time_in_bbs.md) — still relevant for temporal analysis questions
+**Current Assignment:**
+[Assignment 13: Final Assignment - Ethical Position Statements](./assignments/SEID2364_Assignment13_final_assignment_ethical_position_statements.md) — Synthesize your semester-long ethical development into personal and professional position statements, analyze their relation to philosophical ideas, professional standards, governmental authority, and future stress-testing, and document AI use transparently.
+
+[Assignment 14: Final Class Presentation Preparation](./assignments/SEID2364_Assignment14_final_class_framework_presentation_preparation.md) — Prepare a brief, public-facing two-slide presentation of your personal and professional ethical framework positions for in-class stress-testing and revision.  
+
+[Link to the Shared Google Slide Show](https://l1nk.dev/koc4kgz)  This link will direct you to teh shared slides. Each student has been assigned two slides, and your name is on the ones assigned to you. Only work on your own slides!!!!  
+
+
 
 <details>
-<summary>Past Assignments</summary>
+<summary><strong>📚 Past Assignments</strong> (click to expand)</summary>
 
+- [Assignment 12: Case Study Specification](./assignments/SEID2364_Assignment12_case_study_specification.md) — Select a Lite Case Study and develop a specification of the ethical system it describes, using game theory, BBS, and EDOCA as analytic tools. This assignment launches your final paper process.
+
+**Past Assignment Resources (Week 12):**
+- [Case Study Game-Theoretic Analysis Worksheet](./resources/week-12/12-SEID2364_Case_Study_Game_Theory_Worksheet.md): A guided worksheet to help you map your Lite Case Study as a strategic system, clarifying agent roles, goals, signals, rules, and ethical tensions for your final project.
+- [Printable Game Pieces – Faceplant Covid Misinformation](./resources/week-12/SEID2364%20Printable%20Game%20Pieces%20-%20Faceplant%20Covid%20Misinformation.pdf): Printable materials for use in the Faceplant COVID-19 misinformation game activity, including stakeholder cards and other components.
+- [Meta-Rules for Designing the Faceplant Game](./resources/week-12/SEID2364_Week12-meta_rules_for_designing_the_faceplant_game.md): Outlines the meta-rules and design constraints for the Faceplant game activity, guiding you in constructing the game system, stakeholder roles, and scoring mechanisms.
+
+- [Assignment 10: System Synthesis and Communicating Ethical Analysis](./assignments/SEID2364_Assignment10_system_synthesis_and_communication.md) — synthesize your A7–A9 system analyses into one integrated understanding; develop your paper research question, outline, and opening; plan your oral presentation structure and visuals.
 - [Assignment 9: Mediation Pathways, Capability, and Responsibility](./assignments/SEID2364_Assignment09_mediation_pathways_capability_and_responsibility.md) — reconstruct how harmful outcomes emerge through mediation pathways in a real-world incident; apply EDOCA to evaluate capability under constraint; analyze whether harm was unintended, foreseeable but not prevented, or designed with plausible deniability; map where responsibility becomes distributed or unclear.
 - [Assignment 8: Bias, Decision-Making, and Harm in AI-Mediated Systems](./assignments/SEID2364_Assignment08_ai_mediation_risk_fluidity_and_regulatory_limits.md) — select a new AI system, construct three deployment scenarios, and map where bias enters and travels through a mediation pathway, how it shapes decisions, and what harms it produces.
 - [Assignment 7: EU AI Act System Evaluation](./assignments/SEID2364_Assignment07_eu_ai_act_system_evaluation.md) — classify a system within EU AI Act risk categories and analyze how risk is produced and distributed through mediation pathways.
@@ -95,6 +102,23 @@ The semester follows a 14-week sequence progressing from individual inquiry → 
 ## 🤝 **AI and Collaboration Policy**
 
 AI is integrated as both a **tool and a collaborator**. Students are encouraged to use AI systems (e.g., ChatGPT, Copilot, NotebookLM) responsibly, documenting their interactions and reflecting on the ethical implications of their use. All AI participation must be transparent and properly attributed.
+
+---
+
+## 📤 **Submission Pathway (All Assignments)**
+
+All assignments in this course are submitted through each student's own GitHub branch.
+
+1. Work in your personal branch (not `main`).
+2. Save assignment files in your own folder under `students/`.
+3. Make sure that each assignment is labeled with your name and the assignment number.
+4. Assignments can be in markdown or pdf format
+5. Use a consistent path pattern for assignment files, for example:
+	`students/lastname-firstname/<assignment-file>.md`
+6. Commit your work with a clear commit message.
+7. Push your branch before the deadline.
+
+Instructor review is based on the state of your assignment files in your branch at the submission deadline.
 
 ---
 
